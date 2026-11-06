@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw data: large and re-downloadable (see README "Data sources").
+# Folders stay in git via .gitkeep so the structure is visible.
+# (This also covers data/raw/survey/: survey responses are personal data
+#  and must never be committed.)
+data/raw/*/*
+!data/raw/*/.gitkeep
+
+# Interim files are rebuilt by the scripts
+data/interim/*
+!data/interim/.gitkeep
+
+# Processed Tableau CSVs ARE committed: they are the project's output.
+
+# Excel lock files and OS clutter
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini

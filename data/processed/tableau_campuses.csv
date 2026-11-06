@@ -1,0 +1,18 @@
+campus_id,campus_name,address,lat,lon,is_home_campus,source
+nyu_wsq,NYU (Washington Square),"70 Washington Square South, Manhattan",40.729437,-73.997217,True,NYC GeoSearch 2026-11-05
+columbia,Columbia University (Morningside),"2960 Broadway, Manhattan",40.807976,-73.963192,False,NYC GeoSearch 2026-11-05
+hunter,CUNY Hunter College,"695 Park Avenue, Manhattan",40.768601,-73.964704,False,NYC GeoSearch 2026-11-05
+baruch,CUNY Baruch College,"55 Lexington Avenue, Manhattan",40.740196,-73.983318,False,NYC GeoSearch 2026-11-05
+ccny,CUNY City College,"160 Convent Avenue, Manhattan",40.819839,-73.950866,False,NYC GeoSearch 2026-11-05
+brooklyn_college,CUNY Brooklyn College,"2900 Bedford Avenue, Brooklyn",40.631768,-73.953483,False,NYC GeoSearch 2026-11-05
+queens_college,CUNY Queens College,"65-30 Kissena Boulevard, Queens",40.73619,-73.816162,False,NYC GeoSearch 2026-11-05
+fordham_rh,Fordham University (Rose Hill),"441 East Fordham Road, Bronx",40.861273,-73.887405,False,NYC GeoSearch 2026-11-05
+new_school,The New School,"66 West 12th Street, Manhattan",40.735475,-73.997082,False,NYC GeoSearch 2026-11-05
+pratt,Pratt Institute,"200 Willoughby Avenue, Brooklyn",40.691783,-73.964165,False,NYC GeoSearch 2026-11-05
+fit,Fashion Institute of Technology,"227 West 27th Street, Manhattan",40.747283,-73.994751,False,NYC GeoSearch 2026-11-05
+john_jay,CUNY John Jay College,"524 West 59th Street, Manhattan",40.770887,-73.989726,False,NYC GeoSearch 2026-11-05
+nyu_tandon,NYU Tandon (Downtown Brooklyn),"6 MetroTech Center, Brooklyn",40.694234,-73.98665,False,NYC GeoSearch 2026-11-05
+st_johns,St. John's University (Queens),"8000 Utopia Parkway, Queens",40.721905,-73.794977,False,NYC GeoSearch 2026-11-05
+lehman,CUNY Lehman College,"250 Bedford Park Boulevard West, Bronx",40.874614,-73.892839,False,NYC GeoSearch 2026-11-05
+laguardia_cc,CUNY LaGuardia Community College,"31-10 Thomson Avenue, Queens",40.743956,-73.935066,False,NYC GeoSearch 2026-11-05
+bmcc,CUNY Borough of Manhattan CC,"199 Chambers Street, Manhattan",40.718857,-74.011849,False,NYC GeoSearch 2026-11-05

@@ -1,0 +1,877 @@
+campus_id,campus_name,popular_nta,popular_rent,popular_commute_min,alternative_nta,alternative_borough,alternative_rent,alternative_commute_min,monthly_savings,extra_minutes_one_way,alternative_rent_reliability,alternative_mapping_confidence,alternative_lines,housing,yearly_savings
+lehman,CUNY Lehman College,Upper East Side-Yorkville,3173.0,49.0,Norwood,Bronx,1550.0,19.0,1623.0,-30.0,medium,high,walk,Studio (alone),19476.0
+lehman,CUNY Lehman College,Hell's Kitchen,3858.0,60.0,Norwood,Bronx,1550.0,19.0,2308.0,-41.0,medium,high,walk,Studio (alone),27696.0
+lehman,CUNY Lehman College,Chelsea-Hudson Yards,4493.0,63.0,Norwood,Bronx,1550.0,19.0,2943.0,-44.0,medium,high,walk,Studio (alone),35316.0
+bmcc,CUNY Borough of Manhattan CC,Financial District-Battery Park City,5305.0,20.0,Chinatown-Two Bridges,Manhattan,3448.0,27.0,1857.0,7.0,high,high,walk,1BR (alone),22284.0
+bmcc,CUNY Borough of Manhattan CC,Flatbush (West)-Ditmas Park-Parkville,2866.0,53.0,Bedford Park,Bronx,1879.0,61.0,987.0,8.0,high,high,D > A,1BR (alone),11844.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,24.0,Kensington,Brooklyn,2500.0,35.0,1703.0,11.0,high,high,F,1BR (alone),20436.0
+lehman,CUNY Lehman College,Bushwick (East),2768.0,90.0,Norwood,Bronx,1550.0,19.0,1218.0,-71.0,medium,high,walk,Studio (alone),14616.0
+laguardia_cc,CUNY LaGuardia Community College,Bushwick (West),3200.0,57.0,Bedford Park,Bronx,1879.0,65.0,1321.0,8.0,high,high,D > E,1BR (alone),15852.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Bushwick (West),2768.0,48.0,Bath Beach,Brooklyn,1750.0,54.0,1018.0,6.0,high,high,D > R,Studio (alone),12216.0
+lehman,CUNY Lehman College,Greenpoint,4525.0,78.0,Allerton,Bronx,1804.0,44.0,2721.0,-34.0,medium,medium,walk,1BR (alone),32652.0
+pratt,Pratt Institute,Upper East Side-Carnegie Hill,4688.0,61.0,Richmond Hill,Queens,1000.0,66.0,3688.0,5.0,medium,high,J > A > G,3BR+ (3 roommates),44256.0
+fit,Fashion Institute of Technology,Upper East Side-Lenox Hill-Roosevelt Island,4609.0,34.0,Inwood,Manhattan,1099.0,47.0,3510.0,13.0,high,high,1,3BR+ (3 roommates),42120.0
+fordham_rh,Fordham University (Rose Hill),East Midtown-Turtle Bay,2999.0,59.0,University Heights (North)-Fordham,Bronx,980.0,24.0,2019.0,-35.0,medium,high,walk,3BR+ (3 roommates),24228.0
+fordham_rh,Fordham University (Rose Hill),East Village,2625.0,74.0,University Heights (North)-Fordham,Bronx,980.0,24.0,1645.0,-50.0,medium,high,walk,3BR+ (3 roommates),19740.0
+new_school,The New School,Financial District-Battery Park City,3463.0,23.0,East Harlem (South),Manhattan,1454.0,38.0,2009.0,15.0,high,high,6,3BR+ (3 roommates),24108.0
+new_school,The New School,Flatbush (West)-Ditmas Park-Parkville,1221.0,45.0,University Heights (North)-Fordham,Bronx,980.0,57.0,241.0,12.0,medium,high,D,3BR+ (3 roommates),2892.0
+john_jay,CUNY John Jay College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,55.0,University Heights (North)-Fordham,Bronx,980.0,52.0,1883.0,-3.0,medium,high,D,3BR+ (3 roommates),22596.0
+hunter,CUNY Hunter College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,51.0,University Heights (North)-Fordham,Bronx,980.0,49.0,1883.0,-2.0,medium,high,4 > 6,3BR+ (3 roommates),22596.0
+baruch,CUNY Baruch College,Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,37.0,Melrose,Bronx,1188.0,49.0,1884.0,12.0,medium,high,5 > 6,2BR (2 roommates),22608.0
+pratt,Pratt Institute,Upper East Side-Yorkville,2913.0,64.0,Melrose,Bronx,1188.0,78.0,1725.0,14.0,medium,high,5 > L > G,2BR (2 roommates),20700.0
+new_school,The New School,Upper East Side-Carnegie Hill,3173.0,32.0,Concourse-Concourse Village,Bronx,2061.0,46.0,1112.0,14.0,high,high,4,Studio (alone),13344.0
+fit,Fashion Institute of Technology,East Midtown-Turtle Bay,3613.0,24.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,36.0,1418.0,12.0,high,high,1,Studio (alone),17016.0
+brooklyn_college,CUNY Brooklyn College,Murray Hill-Kips Bay,3613.0,67.0,Bath Beach,Brooklyn,1750.0,68.0,1863.0,1.0,high,high,D > Q,Studio (alone),22356.0
+pratt,Pratt Institute,Hell's Kitchen,3298.0,57.0,Richmond Hill,Queens,1275.0,66.0,2023.0,9.0,medium,high,J > A > G,2BR (2 roommates),24276.0
+pratt,Pratt Institute,Chelsea-Hudson Yards,4062.0,53.0,Richmond Hill,Queens,1275.0,66.0,2787.0,13.0,medium,high,J > A > G,2BR (2 roommates),33444.0
+fit,Fashion Institute of Technology,East Village,3363.0,34.0,Elmhurst,Queens,2050.0,47.0,1313.0,13.0,high,high,M > F,Studio (alone),15756.0
+ccny,CUNY City College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,65.0,Norwood,Bronx,1550.0,39.0,1834.0,-26.0,medium,high,D,Studio (alone),22008.0
+nyu_wsq,NYU (Washington Square),Financial District-Battery Park City,5305.0,22.0,Chinatown-Two Bridges,Manhattan,3448.0,22.0,1857.0,0.0,high,high,F,1BR (alone),22284.0
+nyu_wsq,NYU (Washington Square),Flatbush (West)-Ditmas Park-Parkville,2866.0,43.0,Bedford Park,Bronx,1879.0,54.0,987.0,11.0,high,high,D,1BR (alone),11844.0
+pratt,Pratt Institute,Bushwick (East),1775.0,56.0,Richmond Hill,Queens,1275.0,66.0,500.0,10.0,medium,high,J > A > G,2BR (2 roommates),6000.0
+baruch,CUNY Baruch College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,44.0,University Heights (North)-Fordham,Bronx,1656.0,58.0,1728.0,14.0,high,high,4 > 6,Studio (alone),20736.0
+hunter,CUNY Hunter College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,51.0,Allerton,Bronx,1804.0,61.0,2399.0,10.0,medium,medium,2 > 5 > 6,1BR (alone),28788.0
+new_school,The New School,Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,28.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,39.0,1497.0,11.0,high,high,1 > 2,2BR (2 roommates),17964.0
+pratt,Pratt Institute,Greenpoint,3710.0,35.0,Mapleton-Midwood (West),Brooklyn,2014.0,49.0,1696.0,14.0,high,high,F > G,Studio (alone),20352.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Yorkville,4200.0,66.0,Brownsville,Brooklyn,1950.0,48.0,2250.0,-18.0,high,high,3 > 5,1BR (alone),27000.0
+new_school,The New School,Upper East Side-Yorkville,4200.0,34.0,Melrose,Bronx,1935.0,46.0,2265.0,12.0,medium,high,2,1BR (alone),27180.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Lenox Hill-Roosevelt Island,4203.0,71.0,Allerton,Bronx,1804.0,32.0,2399.0,-39.0,medium,medium,walk,1BR (alone),28788.0
+lehman,CUNY Lehman College,Murray Hill-Kips Bay,2999.0,57.0,University Heights (North)-Fordham,Bronx,980.0,22.0,2019.0,-35.0,medium,high,4,3BR+ (3 roommates),24228.0
+brooklyn_college,CUNY Brooklyn College,Hell's Kitchen,4850.0,68.0,Brownsville,Brooklyn,1950.0,48.0,2900.0,-20.0,high,high,3 > 5,1BR (alone),34800.0
+new_school,The New School,Hell's Kitchen,4850.0,30.0,Washington Heights (South),Manhattan,2624.0,40.0,2226.0,10.0,high,high,A,1BR (alone),26712.0
+brooklyn_college,CUNY Brooklyn College,Chelsea-Hudson Yards,6182.0,62.0,Brownsville,Brooklyn,1950.0,48.0,4232.0,-14.0,high,high,3 > 5,1BR (alone),50784.0
+new_school,The New School,Chelsea-Hudson Yards,6182.0,23.0,East Harlem (South),Manhattan,2825.0,38.0,3357.0,15.0,high,high,6,1BR (alone),40284.0
+bmcc,CUNY Borough of Manhattan CC,Financial District-Battery Park City,3463.0,20.0,Chinatown-Two Bridges,Manhattan,2198.0,27.0,1265.0,7.0,high,high,walk,3BR+ (3 roommates),15180.0
+bmcc,CUNY Borough of Manhattan CC,Flatbush (West)-Ditmas Park-Parkville,1221.0,53.0,University Heights (North)-Fordham,Bronx,980.0,64.0,241.0,11.0,medium,high,D > A,3BR+ (3 roommates),2892.0
+fit,Fashion Institute of Technology,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,45.0,Bedford Park,Bronx,1879.0,54.0,2324.0,9.0,high,high,D > 1,1BR (alone),27888.0
+laguardia_cc,CUNY LaGuardia Community College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,54.0,Highbridge,Bronx,1150.0,62.0,1803.0,8.0,medium,high,4 > 7,2BR (2 roommates),21636.0
+brooklyn_college,CUNY Brooklyn College,Bushwick (East),3200.0,77.0,Bedford Park,Bronx,1879.0,90.0,1321.0,13.0,high,high,D > B,1BR (alone),15852.0
+new_school,The New School,Bushwick (East),3200.0,46.0,Bedford Park,Bronx,1879.0,54.0,1321.0,8.0,high,high,D,1BR (alone),15852.0
+pratt,Pratt Institute,Greenpoint,4525.0,35.0,Kensington,Brooklyn,2500.0,43.0,2025.0,8.0,high,high,G,1BR (alone),24300.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Yorkville,4200.0,45.0,Melrose,Bronx,1935.0,55.0,2265.0,10.0,medium,high,2,1BR (alone),27180.0
+lehman,CUNY Lehman College,Upper East Side-Carnegie Hill,4200.0,48.0,Allerton,Bronx,1804.0,44.0,2396.0,-4.0,medium,medium,walk,1BR (alone),28752.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Lenox Hill-Roosevelt Island,4203.0,41.0,Richmond Hill,Queens,2100.0,55.0,2103.0,14.0,high,high,J > E,1BR (alone),25236.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Lenox Hill-Roosevelt Island,3192.0,51.0,Bath Beach,Brooklyn,1750.0,54.0,1442.0,3.0,high,high,D > R,Studio (alone),17304.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Murray Hill-Kips Bay,4948.0,45.0,Brownsville,Brooklyn,1950.0,39.0,2998.0,-6.0,high,high,3 > 4,1BR (alone),35976.0
+bmcc,CUNY Borough of Manhattan CC,Hell's Kitchen,4850.0,36.0,East Flatbush-Erasmus,Brooklyn,2600.0,49.0,2250.0,13.0,high,high,2,1BR (alone),27000.0
+bmcc,CUNY Borough of Manhattan CC,Chelsea-Hudson Yards,6182.0,29.0,Harlem (South),Manhattan,3175.0,42.0,3007.0,13.0,high,high,2,1BR (alone),36084.0
+lehman,CUNY Lehman College,Financial District-Battery Park City,4140.0,59.0,Norwood,Bronx,1550.0,19.0,2590.0,-40.0,medium,high,walk,Studio (alone),31080.0
+lehman,CUNY Lehman College,Flatbush (West)-Ditmas Park-Parkville,2604.0,88.0,Norwood,Bronx,1550.0,19.0,1054.0,-69.0,medium,high,walk,Studio (alone),12648.0
+bmcc,CUNY Borough of Manhattan CC,Bushwick (East),3200.0,55.0,Bedford Park,Bronx,1879.0,61.0,1321.0,6.0,high,high,D > A,1BR (alone),15852.0
+new_school,The New School,Upper East Side-Yorkville,4688.0,34.0,Elmhurst,Queens,1133.0,49.0,3555.0,15.0,high,high,M > F,3BR+ (3 roommates),42660.0
+brooklyn_college,CUNY Brooklyn College,East Midtown-Turtle Bay,3250.0,61.0,Brownsville,Brooklyn,1275.0,48.0,1975.0,-13.0,high,high,3 > 5,2BR (2 roommates),23700.0
+hunter,CUNY Hunter College,Murray Hill-Kips Bay,2999.0,25.0,Mott Haven-Port Morris,Bronx,1233.0,31.0,1766.0,6.0,high,high,6,3BR+ (3 roommates),21192.0
+new_school,The New School,Hell's Kitchen,2441.0,30.0,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,1221.0,45.0,1220.0,15.0,high,high,B,3BR+ (3 roommates),14640.0
+new_school,The New School,Chelsea-Hudson Yards,3546.0,23.0,Bushwick (West),Brooklyn,1408.0,38.0,2138.0,15.0,high,high,L,3BR+ (3 roommates),25656.0
+brooklyn_college,CUNY Brooklyn College,East Village,2748.0,59.0,Brownsville,Brooklyn,1275.0,48.0,1473.0,-11.0,high,high,3 > 5,2BR (2 roommates),17676.0
+new_school,The New School,Bushwick (East),1408.0,46.0,University Heights (North)-Fordham,Bronx,980.0,57.0,428.0,11.0,medium,high,D,3BR+ (3 roommates),5136.0
+fit,Fashion Institute of Technology,Bushwick (West),1408.0,48.0,University Heights (North)-Fordham,Bronx,980.0,57.0,428.0,9.0,medium,high,D > 1,3BR+ (3 roommates),5136.0
+columbia,Columbia University (Morningside),Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,50.0,University Heights (North)-Fordham,Bronx,1179.0,43.0,1893.0,-7.0,high,high,1,2BR (2 roommates),22716.0
+baruch,CUNY Baruch College,Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,37.0,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,1221.0,52.0,1607.0,15.0,high,high,Q,3BR+ (3 roommates),19284.0
+brooklyn_college,CUNY Brooklyn College,Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,43.0,Gravesend (West),Brooklyn,1067.0,57.0,1761.0,14.0,high,high,D > Q,3BR+ (3 roommates),21132.0
+pratt,Pratt Institute,Greenpoint,2500.0,35.0,East New York (North),Brooklyn,1199.0,42.0,1301.0,7.0,high,high,C,3BR+ (3 roommates),15612.0
+fordham_rh,Fordham University (Rose Hill),Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,75.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,1930.0,-24.0,medium,high,walk,2BR (2 roommates),23160.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Yorkville,4200.0,39.0,Bedford Park,Bronx,1879.0,54.0,2321.0,15.0,high,high,D,1BR (alone),27852.0
+pratt,Pratt Institute,Upper East Side-Carnegie Hill,3173.0,61.0,Jamaica Hills-Briarwood,Queens,1842.0,74.0,1331.0,13.0,high,high,F > G,Studio (alone),15972.0
+hunter,CUNY Hunter College,East Midtown-Turtle Bay,3613.0,17.0,East Harlem (South),Manhattan,2595.0,20.0,1018.0,3.0,high,high,6,Studio (alone),12216.0
+baruch,CUNY Baruch College,Murray Hill-Kips Bay,3613.0,13.0,Upper East Side-Carnegie Hill,Manhattan,3173.0,27.0,440.0,14.0,high,high,6,Studio (alone),5280.0
+hunter,CUNY Hunter College,Murray Hill-Kips Bay,4948.0,25.0,Concourse-Concourse Village,Bronx,2200.0,38.0,2748.0,13.0,high,high,4 > 6,1BR (alone),32976.0
+nyu_wsq,NYU (Washington Square),Hell's Kitchen,4850.0,30.0,Washington Heights (South),Manhattan,2624.0,39.0,2226.0,9.0,high,high,A,1BR (alone),26712.0
+nyu_wsq,NYU (Washington Square),Chelsea-Hudson Yards,6182.0,23.0,Chinatown-Two Bridges,Manhattan,3448.0,22.0,2734.0,-1.0,high,high,F,1BR (alone),32808.0
+hunter,CUNY Hunter College,East Village,3363.0,36.0,University Heights (North)-Fordham,Bronx,1656.0,49.0,1707.0,13.0,high,high,4 > 6,Studio (alone),20484.0
+pratt,Pratt Institute,Financial District-Battery Park City,3804.0,38.0,Kensington,Brooklyn,1500.0,43.0,2304.0,5.0,high,high,G,2BR (2 roommates),27648.0
+brooklyn_college,CUNY Brooklyn College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,62.0,Bath Beach,Brooklyn,1750.0,68.0,1634.0,6.0,high,high,D > Q,Studio (alone),19608.0
+nyu_wsq,NYU (Washington Square),Bushwick (East),3200.0,47.0,Bedford Park,Bronx,1879.0,54.0,1321.0,7.0,high,high,D,1BR (alone),15852.0
+nyu_wsq,NYU (Washington Square),Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,27.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,40.0,1454.0,13.0,high,high,A,Studio (alone),17448.0
+new_school,The New School,Greenpoint,3710.0,41.0,Norwood,Bronx,1550.0,55.0,2160.0,14.0,medium,high,D,Studio (alone),25920.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Yorkville,4688.0,45.0,Woodhaven,Queens,1000.0,60.0,3688.0,15.0,high,high,J > A,3BR+ (3 roommates),44256.0
+pratt,Pratt Institute,Upper East Side-Carnegie Hill,4200.0,61.0,Woodhaven,Queens,2038.0,60.0,2162.0,-1.0,high,high,J > A > G,1BR (alone),25944.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),East Midtown-Turtle Bay,3250.0,37.0,Brownsville,Brooklyn,1275.0,39.0,1975.0,2.0,high,high,3 > 4,2BR (2 roommates),23700.0
+fit,Fashion Institute of Technology,Murray Hill-Kips Bay,4948.0,26.0,Washington Heights (South),Manhattan,2624.0,40.0,2324.0,14.0,high,high,A > E,1BR (alone),27888.0
+laguardia_cc,CUNY LaGuardia Community College,Murray Hill-Kips Bay,3250.0,36.0,Jamaica Hills-Briarwood,Queens,1377.0,49.0,1873.0,13.0,high,high,F,2BR (2 roommates),22476.0
+bmcc,CUNY Borough of Manhattan CC,Hell's Kitchen,2441.0,36.0,East Flatbush-Erasmus,Brooklyn,1183.0,49.0,1258.0,13.0,high,high,2,3BR+ (3 roommates),15096.0
+bmcc,CUNY Borough of Manhattan CC,Chelsea-Hudson Yards,3546.0,29.0,Bedford-Stuyvesant (West),Brooklyn,1399.0,41.0,2147.0,12.0,high,high,G > A,3BR+ (3 roommates),25764.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),East Village,2748.0,30.0,Brownsville,Brooklyn,1275.0,39.0,1473.0,9.0,high,high,3 > 4,2BR (2 roommates),17676.0
+brooklyn_college,CUNY Brooklyn College,Financial District-Battery Park City,5305.0,45.0,Brownsville,Brooklyn,1950.0,48.0,3355.0,3.0,high,high,3 > 5,1BR (alone),40260.0
+new_school,The New School,Financial District-Battery Park City,5305.0,23.0,East Harlem (South),Manhattan,2825.0,38.0,2480.0,15.0,high,high,6,1BR (alone),29760.0
+brooklyn_college,CUNY Brooklyn College,Flatbush (West)-Ditmas Park-Parkville,2866.0,19.0,Brighton Beach,Brooklyn,2426.0,33.0,440.0,14.0,high,high,B,1BR (alone),5280.0
+new_school,The New School,Flatbush (West)-Ditmas Park-Parkville,2866.0,45.0,Bedford Park,Bronx,1879.0,54.0,987.0,9.0,high,high,D,1BR (alone),11844.0
+lehman,CUNY Lehman College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,81.0,University Heights (North)-Fordham,Bronx,980.0,22.0,1883.0,-59.0,medium,high,4,3BR+ (3 roommates),22596.0
+bmcc,CUNY Borough of Manhattan CC,Bushwick (East),1408.0,55.0,University Heights (North)-Fordham,Bronx,980.0,64.0,428.0,9.0,medium,high,D > A,3BR+ (3 roommates),5136.0
+fordham_rh,Fordham University (Rose Hill),Bushwick (West),3200.0,86.0,Allerton,Bronx,1804.0,32.0,1396.0,-54.0,medium,medium,walk,1BR (alone),16752.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Carnegie Hill,4200.0,47.0,Brownsville,Brooklyn,1950.0,39.0,2250.0,-8.0,high,high,3 > 4,1BR (alone),27000.0
+lehman,CUNY Lehman College,Upper East Side-Lenox Hill-Roosevelt Island,3192.0,60.0,Norwood,Bronx,1550.0,19.0,1642.0,-41.0,medium,high,walk,Studio (alone),19704.0
+laguardia_cc,CUNY LaGuardia Community College,East Midtown-Turtle Bay,3613.0,24.0,Flushing-Willets Point,Queens,2000.0,34.0,1613.0,10.0,high,high,7,Studio (alone),19356.0
+lehman,CUNY Lehman College,Murray Hill-Kips Bay,4948.0,57.0,Allerton,Bronx,1804.0,44.0,3144.0,-13.0,medium,medium,walk,1BR (alone),37728.0
+laguardia_cc,CUNY LaGuardia Community College,East Village,3363.0,50.0,Bedford Park,Bronx,1750.0,65.0,1613.0,15.0,medium,high,D > E,Studio (alone),19356.0
+laguardia_cc,CUNY LaGuardia Community College,Financial District-Battery Park City,5305.0,43.0,Richmond Hill,Queens,2100.0,55.0,3205.0,12.0,high,high,J > E,1BR (alone),38460.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Financial District-Battery Park City,4140.0,21.0,Prospect Lefferts Gardens-Wingate,Brooklyn,2325.0,34.0,1815.0,13.0,high,high,5,Studio (alone),21780.0
+laguardia_cc,CUNY LaGuardia Community College,Flatbush (West)-Ditmas Park-Parkville,2866.0,68.0,Allerton,Bronx,1804.0,79.0,1062.0,11.0,medium,medium,2 > 5 > 7,1BR (alone),12744.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Flatbush (West)-Ditmas Park-Parkville,2604.0,36.0,Brownsville,Brooklyn,1799.0,39.0,805.0,3.0,medium,high,3 > 4,Studio (alone),9660.0
+bmcc,CUNY Borough of Manhattan CC,Bushwick (West),3200.0,51.0,Bedford Park,Bronx,1879.0,61.0,1321.0,10.0,high,high,D > A,1BR (alone),15852.0
+fit,Fashion Institute of Technology,Upper East Side-Yorkville,4688.0,32.0,Longwood,Bronx,1198.0,46.0,3490.0,14.0,medium,medium,2 > 1,3BR+ (3 roommates),41880.0
+hunter,CUNY Hunter College,Upper East Side-Carnegie Hill,4688.0,12.0,East Harlem (South),Manhattan,1454.0,20.0,3234.0,8.0,high,high,6,3BR+ (3 roommates),38808.0
+john_jay,CUNY John Jay College,Upper East Side-Carnegie Hill,4688.0,40.0,University Heights (North)-Fordham,Bronx,980.0,52.0,3708.0,12.0,medium,high,D,3BR+ (3 roommates),44496.0
+nyu_wsq,NYU (Washington Square),East Midtown-Turtle Bay,3250.0,26.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,40.0,1675.0,14.0,high,high,A,2BR (2 roommates),20100.0
+hunter,CUNY Hunter College,East Midtown-Turtle Bay,3250.0,17.0,East Harlem (South),Manhattan,1636.0,20.0,1614.0,3.0,high,high,6,2BR (2 roommates),19368.0
+fit,Fashion Institute of Technology,Hell's Kitchen,2441.0,26.0,Washington Heights (South),Manhattan,1263.0,40.0,1178.0,14.0,high,high,A > E,3BR+ (3 roommates),14136.0
+fit,Fashion Institute of Technology,Chelsea-Hudson Yards,3546.0,10.0,East Midtown-Turtle Bay,Manhattan,2999.0,24.0,547.0,14.0,high,high,F,3BR+ (3 roommates),6564.0
+nyu_wsq,NYU (Washington Square),East Village,2748.0,22.0,Chinatown-Two Bridges,Manhattan,2200.0,22.0,548.0,0.0,high,high,F,2BR (2 roommates),6576.0
+hunter,CUNY Hunter College,East Village,2748.0,36.0,Highbridge,Bronx,1150.0,43.0,1598.0,7.0,medium,high,4 > 6,2BR (2 roommates),19176.0
+pratt,Pratt Institute,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,31.0,East New York (North),Brooklyn,1199.0,42.0,1664.0,11.0,high,high,C,3BR+ (3 roommates),19968.0
+fit,Fashion Institute of Technology,Bushwick (East),1408.0,56.0,University Heights (North)-Fordham,Bronx,980.0,57.0,428.0,1.0,medium,high,D > 1,3BR+ (3 roommates),5136.0
+ccny,CUNY City College,Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,53.0,Williamsbridge-Olinville,Bronx,1142.0,64.0,1930.0,11.0,medium,high,2,2BR (2 roommates),23160.0
+new_school,The New School,Bushwick (West),1408.0,38.0,Inwood,Manhattan,1099.0,50.0,309.0,12.0,high,high,1 > 2,3BR+ (3 roommates),3708.0
+baruch,CUNY Baruch College,Upper East Side-Carnegie Hill,3173.0,27.0,Chinatown-Two Bridges,Manhattan,2580.0,32.0,593.0,5.0,medium,high,F > 6,Studio (alone),7116.0
+hunter,CUNY Hunter College,Upper East Side-Carnegie Hill,4200.0,12.0,East Harlem (South),Manhattan,2825.0,20.0,1375.0,8.0,high,high,6,1BR (alone),16500.0
+pratt,Pratt Institute,Upper East Side-Lenox Hill-Roosevelt Island,2911.0,66.0,Melrose,Bronx,1188.0,78.0,1723.0,12.0,medium,high,5 > L > G,2BR (2 roommates),20676.0
+fit,Fashion Institute of Technology,East Midtown-Turtle Bay,3250.0,24.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,36.0,1675.0,12.0,high,high,1,2BR (2 roommates),20100.0
+pratt,Pratt Institute,Murray Hill-Kips Bay,3613.0,58.0,Corona,Queens,1981.0,71.0,1632.0,13.0,medium,high,7 > G,Studio (alone),19584.0
+fit,Fashion Institute of Technology,East Village,2748.0,34.0,Melrose,Bronx,1188.0,46.0,1560.0,12.0,medium,high,2 > 1,2BR (2 roommates),18720.0
+new_school,The New School,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,37.0,Highbridge,Bronx,1795.0,52.0,1589.0,15.0,medium,high,4,Studio (alone),19068.0
+nyu_wsq,NYU (Washington Square),Bushwick (West),3200.0,38.0,Melrose,Bronx,1935.0,52.0,1265.0,14.0,medium,high,5,1BR (alone),15180.0
+brooklyn_college,CUNY Brooklyn College,Greenpoint,3710.0,81.0,Norwood,Bronx,1550.0,91.0,2160.0,10.0,medium,high,D > B,Studio (alone),25920.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Yorkville,4200.0,60.0,Allerton,Bronx,1804.0,32.0,2396.0,-28.0,medium,medium,walk,1BR (alone),28752.0
+fit,Fashion Institute of Technology,Upper East Side-Carnegie Hill,4200.0,37.0,Melrose,Bronx,1935.0,46.0,2265.0,9.0,medium,high,2 > 1,1BR (alone),27180.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Carnegie Hill,2913.0,39.0,Jamaica Hills-Briarwood,Queens,1377.0,49.0,1536.0,10.0,high,high,F,2BR (2 roommates),18432.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Lenox Hill-Roosevelt Island,4203.0,68.0,Brownsville,Brooklyn,1950.0,48.0,2253.0,-20.0,high,high,3 > 5,1BR (alone),27036.0
+new_school,The New School,Upper East Side-Lenox Hill-Roosevelt Island,4203.0,36.0,Melrose,Bronx,1935.0,46.0,2268.0,10.0,medium,high,2,1BR (alone),27216.0
+laguardia_cc,CUNY LaGuardia Community College,East Midtown-Turtle Bay,2999.0,24.0,Elmhurst,Queens,1133.0,37.0,1866.0,13.0,high,high,R,3BR+ (3 roommates),22392.0
+lehman,CUNY Lehman College,East Midtown-Turtle Bay,3250.0,53.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,2108.0,-8.0,medium,high,walk,2BR (2 roommates),25296.0
+bmcc,CUNY Borough of Manhattan CC,East Midtown-Turtle Bay,3250.0,34.0,East New York (North),Brooklyn,1563.0,46.0,1687.0,12.0,high,high,C > A,2BR (2 roommates),20244.0
+pratt,Pratt Institute,Murray Hill-Kips Bay,4948.0,58.0,Woodhaven,Queens,2038.0,60.0,2910.0,2.0,high,high,J > A > G,1BR (alone),34920.0
+fordham_rh,Fordham University (Rose Hill),Hell's Kitchen,4850.0,62.0,Allerton,Bronx,1804.0,32.0,3046.0,-30.0,medium,medium,walk,1BR (alone),36552.0
+fordham_rh,Fordham University (Rose Hill),Chelsea-Hudson Yards,6182.0,65.0,Allerton,Bronx,1804.0,32.0,4378.0,-33.0,medium,medium,walk,1BR (alone),52536.0
+laguardia_cc,CUNY LaGuardia Community College,East Village,2625.0,50.0,Richmond Hill,Queens,1000.0,55.0,1625.0,5.0,medium,high,J > E,3BR+ (3 roommates),19500.0
+lehman,CUNY Lehman College,East Village,2748.0,66.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,1606.0,-21.0,medium,high,walk,2BR (2 roommates),19272.0
+bmcc,CUNY Borough of Manhattan CC,East Village,2748.0,39.0,Brownsville,Brooklyn,1275.0,53.0,1473.0,14.0,high,high,3,2BR (2 roommates),17676.0
+fordham_rh,Fordham University (Rose Hill),Bushwick (East),3200.0,95.0,Allerton,Bronx,1804.0,32.0,1396.0,-63.0,medium,medium,walk,1BR (alone),16752.0
+bmcc,CUNY Borough of Manhattan CC,Bushwick (West),1408.0,51.0,University Heights (North)-Fordham,Bronx,980.0,64.0,428.0,13.0,medium,high,D > A,3BR+ (3 roommates),5136.0
+lehman,CUNY Lehman College,Greenpoint,2500.0,78.0,University Heights (North)-Fordham,Bronx,980.0,22.0,1520.0,-56.0,medium,high,4,3BR+ (3 roommates),18240.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Lenox Hill-Roosevelt Island,3192.0,41.0,Jamaica Hills-Briarwood,Queens,1842.0,49.0,1350.0,8.0,high,high,F,Studio (alone),16200.0
+lehman,CUNY Lehman College,East Midtown-Turtle Bay,3613.0,53.0,Norwood,Bronx,1550.0,19.0,2063.0,-34.0,medium,high,walk,Studio (alone),24756.0
+john_jay,CUNY John Jay College,Bushwick (West),3200.0,59.0,Allerton,Bronx,1804.0,68.0,1396.0,9.0,medium,medium,2,1BR (alone),16752.0
+lehman,CUNY Lehman College,East Village,3363.0,66.0,Norwood,Bronx,1550.0,19.0,1813.0,-47.0,medium,high,walk,Studio (alone),21756.0
+bmcc,CUNY Borough of Manhattan CC,Bushwick (West),2768.0,51.0,Norwood,Bronx,1550.0,63.0,1218.0,12.0,medium,high,D > A,Studio (alone),14616.0
+lehman,CUNY Lehman College,Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,70.0,Allerton,Bronx,1804.0,44.0,2843.0,-26.0,medium,medium,walk,1BR (alone),34116.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Yorkville,4688.0,60.0,University Heights (North)-Fordham,Bronx,980.0,24.0,3708.0,-36.0,medium,high,walk,3BR+ (3 roommates),44496.0
+baruch,CUNY Baruch College,Upper East Side-Carnegie Hill,4688.0,27.0,East Harlem (South),Manhattan,1454.0,33.0,3234.0,6.0,high,high,6,3BR+ (3 roommates),38808.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Carnegie Hill,4688.0,70.0,Woodhaven,Queens,1000.0,84.0,3688.0,14.0,high,high,J > C > S (Franklin) > B,3BR+ (3 roommates),44256.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Carnegie Hill,2913.0,59.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,1771.0,-8.0,medium,high,walk,2BR (2 roommates),21252.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Lenox Hill-Roosevelt Island,2911.0,39.0,Highbridge,Bronx,1150.0,54.0,1761.0,15.0,medium,high,A,2BR (2 roommates),21132.0
+hunter,CUNY Hunter College,Upper East Side-Lenox Hill-Roosevelt Island,2911.0,15.0,East Harlem (South),Manhattan,1636.0,20.0,1275.0,5.0,high,high,6,2BR (2 roommates),15300.0
+fordham_rh,Fordham University (Rose Hill),Hell's Kitchen,2441.0,62.0,University Heights (North)-Fordham,Bronx,980.0,24.0,1461.0,-38.0,medium,high,walk,3BR+ (3 roommates),17532.0
+fordham_rh,Fordham University (Rose Hill),Chelsea-Hudson Yards,3546.0,65.0,University Heights (North)-Fordham,Bronx,980.0,24.0,2566.0,-41.0,medium,high,walk,3BR+ (3 roommates),30792.0
+ccny,CUNY City College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,65.0,University Heights (North)-Fordham,Bronx,980.0,40.0,1883.0,-25.0,medium,high,D,3BR+ (3 roommates),22596.0
+brooklyn_college,CUNY Brooklyn College,Financial District-Battery Park City,3804.0,45.0,Brownsville,Brooklyn,1275.0,48.0,2529.0,3.0,high,high,3 > 5,2BR (2 roommates),30348.0
+brooklyn_college,CUNY Brooklyn College,Flatbush (West)-Ditmas Park-Parkville,1640.0,19.0,East Flatbush-Erasmus,Brooklyn,1486.0,26.0,154.0,7.0,high,high,2,2BR (2 roommates),1848.0
+nyu_wsq,NYU (Washington Square),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,35.0,Inwood,Manhattan,1099.0,49.0,1764.0,14.0,high,high,A,3BR+ (3 roommates),21168.0
+columbia,Columbia University (Morningside),Bushwick (West),1408.0,65.0,University Heights (North)-Fordham,Bronx,980.0,43.0,428.0,-22.0,medium,high,1,3BR+ (3 roommates),5136.0
+fordham_rh,Fordham University (Rose Hill),Bushwick (East),1408.0,95.0,University Heights (North)-Fordham,Bronx,980.0,24.0,428.0,-71.0,medium,high,walk,3BR+ (3 roommates),5136.0
+baruch,CUNY Baruch College,Greenpoint,2850.0,49.0,Highbridge,Bronx,1150.0,52.0,1700.0,3.0,medium,high,4 > 6,2BR (2 roommates),20400.0
+fit,Fashion Institute of Technology,Upper East Side-Yorkville,3173.0,32.0,Forest Hills,Queens,2187.0,43.0,986.0,11.0,high,high,F,Studio (alone),11832.0
+john_jay,CUNY John Jay College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,55.0,Highbridge,Bronx,1150.0,50.0,1803.0,-5.0,medium,high,A,2BR (2 roommates),21636.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Carnegie Hill,3173.0,35.0,Sunset Park (East)-Borough Park (West),Brooklyn,1981.0,47.0,1192.0,12.0,high,high,D,Studio (alone),14304.0
+fit,Fashion Institute of Technology,Upper East Side-Lenox Hill-Roosevelt Island,2911.0,34.0,Melrose,Bronx,1188.0,46.0,1723.0,12.0,medium,high,2 > 1,2BR (2 roommates),20676.0
+pratt,Pratt Institute,East Midtown-Turtle Bay,3250.0,46.0,Woodhaven,Queens,1400.0,60.0,1850.0,14.0,medium,high,J > A > G,2BR (2 roommates),22200.0
+john_jay,CUNY John Jay College,Bushwick (West),2768.0,59.0,Norwood,Bronx,1550.0,50.0,1218.0,-9.0,medium,high,D,Studio (alone),14616.0
+fit,Fashion Institute of Technology,Hell's Kitchen,3858.0,26.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,36.0,1663.0,10.0,high,high,1,Studio (alone),19956.0
+fit,Fashion Institute of Technology,Chelsea-Hudson Yards,4493.0,10.0,Upper West Side-Lincoln Square,Manhattan,3359.0,22.0,1134.0,12.0,high,high,1,Studio (alone),13608.0
+pratt,Pratt Institute,East Village,2748.0,45.0,Kensington,Brooklyn,1500.0,43.0,1248.0,-2.0,high,high,G,2BR (2 roommates),14976.0
+hunter,CUNY Hunter College,Financial District-Battery Park City,4140.0,31.0,Highbridge,Bronx,1795.0,43.0,2345.0,12.0,medium,high,4 > 6,Studio (alone),28140.0
+columbia,Columbia University (Morningside),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,64.0,Norwood,Bronx,1550.0,46.0,1834.0,-18.0,medium,high,D,Studio (alone),22008.0
+hunter,CUNY Hunter College,Flatbush (West)-Ditmas Park-Parkville,2604.0,58.0,Norwood,Bronx,1550.0,58.0,1054.0,0.0,medium,high,4 > 6,Studio (alone),12648.0
+columbia,Columbia University (Morningside),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,64.0,Allerton,Bronx,1804.0,61.0,2399.0,-3.0,medium,medium,2 > 1,1BR (alone),28788.0
+baruch,CUNY Baruch College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,44.0,Bedford Park,Bronx,1879.0,57.0,2324.0,13.0,high,high,4 > 6,1BR (alone),27888.0
+fit,Fashion Institute of Technology,Bushwick (East),2768.0,56.0,Norwood,Bronx,1550.0,55.0,1218.0,-1.0,medium,high,D > 1,Studio (alone),14616.0
+fordham_rh,Fordham University (Rose Hill),Bushwick (West),2768.0,86.0,Norwood,Bronx,1550.0,27.0,1218.0,-59.0,medium,high,D,Studio (alone),14616.0
+pratt,Pratt Institute,Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,30.0,Kensington,Brooklyn,2325.0,43.0,1324.0,13.0,high,high,G,Studio (alone),15888.0
+new_school,The New School,Greenpoint,2850.0,41.0,Highbridge,Bronx,1150.0,52.0,1700.0,11.0,medium,high,4,2BR (2 roommates),20400.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Lenox Hill-Roosevelt Island,4609.0,41.0,Richmond Hill,Queens,1000.0,55.0,3609.0,14.0,medium,high,J > E,3BR+ (3 roommates),43308.0
+lehman,CUNY Lehman College,Upper East Side-Lenox Hill-Roosevelt Island,2911.0,60.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,1769.0,-15.0,medium,high,walk,2BR (2 roommates),21228.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Lenox Hill-Roosevelt Island,2911.0,47.0,Highbridge,Bronx,1150.0,59.0,1761.0,12.0,medium,high,A,2BR (2 roommates),21132.0
+brooklyn_college,CUNY Brooklyn College,East Midtown-Turtle Bay,4948.0,61.0,Brownsville,Brooklyn,1950.0,48.0,2998.0,-13.0,high,high,3 > 5,1BR (alone),35976.0
+new_school,The New School,East Midtown-Turtle Bay,4948.0,25.0,Washington Heights (South),Manhattan,2624.0,40.0,2324.0,15.0,high,high,A,1BR (alone),27888.0
+brooklyn_college,CUNY Brooklyn College,East Village,4018.0,59.0,Brownsville,Brooklyn,1950.0,48.0,2068.0,-11.0,high,high,3 > 5,1BR (alone),24816.0
+new_school,The New School,East Village,4018.0,24.0,Hamilton Heights-Sugar Hill,Manhattan,2700.0,39.0,1318.0,15.0,high,high,1 > 2,1BR (alone),15816.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Financial District-Battery Park City,3804.0,21.0,East Flatbush-Erasmus,Brooklyn,1486.0,35.0,2318.0,14.0,high,high,5,2BR (2 roommates),27816.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Flatbush (West)-Ditmas Park-Parkville,1640.0,36.0,Brownsville,Brooklyn,1275.0,39.0,365.0,3.0,high,high,3 > 4,2BR (2 roommates),4380.0
+ccny,CUNY City College,Bushwick (West),3200.0,68.0,Allerton,Bronx,1804.0,58.0,1396.0,-10.0,medium,medium,2,1BR (alone),16752.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,24.0,East Flatbush-Erasmus,Brooklyn,1183.0,35.0,1680.0,11.0,high,high,5,3BR+ (3 roommates),20160.0
+pratt,Pratt Institute,Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,30.0,Kensington,Brooklyn,2500.0,43.0,2147.0,13.0,high,high,G,1BR (alone),25764.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Carnegie Hill,3173.0,43.0,Brownsville,Brooklyn,1799.0,53.0,1374.0,10.0,medium,high,3,Studio (alone),16488.0
+john_jay,CUNY John Jay College,Upper East Side-Carnegie Hill,4200.0,40.0,Bedford Park,Bronx,1879.0,49.0,2321.0,9.0,high,high,D,1BR (alone),27852.0
+laguardia_cc,CUNY LaGuardia Community College,Greenpoint,3710.0,33.0,Corona,Queens,1981.0,40.0,1729.0,7.0,medium,high,7,Studio (alone),20748.0
+ccny,CUNY City College,Upper East Side-Yorkville,2913.0,52.0,Williamsbridge-Olinville,Bronx,1142.0,64.0,1771.0,12.0,medium,high,2,2BR (2 roommates),21252.0
+baruch,CUNY Baruch College,Upper East Side-Lenox Hill-Roosevelt Island,2911.0,36.0,Melrose,Bronx,1188.0,49.0,1723.0,13.0,medium,high,5 > 6,2BR (2 roommates),20676.0
+ccny,CUNY City College,Hell's Kitchen,3298.0,42.0,University Heights (North)-Fordham,Bronx,1179.0,40.0,2119.0,-2.0,high,high,D,2BR (2 roommates),25428.0
+fordham_rh,Fordham University (Rose Hill),Murray Hill-Kips Bay,2999.0,68.0,University Heights (North)-Fordham,Bronx,980.0,24.0,2019.0,-44.0,medium,high,walk,3BR+ (3 roommates),24228.0
+ccny,CUNY City College,Chelsea-Hudson Yards,4062.0,43.0,University Heights (North)-Fordham,Bronx,1179.0,40.0,2883.0,-3.0,high,high,D,2BR (2 roommates),34596.0
+ccny,CUNY City College,Financial District-Battery Park City,3463.0,48.0,University Heights (North)-Fordham,Bronx,980.0,40.0,2483.0,-8.0,medium,high,D,3BR+ (3 roommates),29796.0
+ccny,CUNY City College,Flatbush (West)-Ditmas Park-Parkville,1221.0,72.0,University Heights (North)-Fordham,Bronx,980.0,40.0,241.0,-32.0,medium,high,D,3BR+ (3 roommates),2892.0
+nyu_wsq,NYU (Washington Square),Financial District-Battery Park City,3463.0,22.0,Prospect Heights,Brooklyn,1916.0,36.0,1547.0,14.0,high,high,B,3BR+ (3 roommates),18564.0
+nyu_wsq,NYU (Washington Square),Flatbush (West)-Ditmas Park-Parkville,1221.0,43.0,University Heights (North)-Fordham,Bronx,980.0,56.0,241.0,13.0,medium,high,D,3BR+ (3 roommates),2892.0
+ccny,CUNY City College,Bushwick (East),1775.0,77.0,Williamsbridge-Olinville,Bronx,1142.0,64.0,633.0,-13.0,medium,high,2,2BR (2 roommates),7596.0
+brooklyn_college,CUNY Brooklyn College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,62.0,Brownsville,Brooklyn,1275.0,48.0,1678.0,-14.0,high,high,3 > 5,2BR (2 roommates),20136.0
+columbia,Columbia University (Morningside),Bushwick (West),1775.0,65.0,Williamsbridge-Olinville,Bronx,1142.0,67.0,633.0,2.0,medium,high,2 > 1,2BR (2 roommates),7596.0
+baruch,CUNY Baruch College,Bushwick (West),1408.0,46.0,University Heights (North)-Fordham,Bronx,980.0,58.0,428.0,12.0,medium,high,4 > 6,3BR+ (3 roommates),5136.0
+brooklyn_college,CUNY Brooklyn College,Bushwick (West),1408.0,71.0,Woodhaven,Queens,1000.0,84.0,408.0,13.0,high,high,J > C > S (Franklin) > B,3BR+ (3 roommates),4896.0
+fordham_rh,Fordham University (Rose Hill),Bushwick (West),1775.0,86.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,633.0,-35.0,medium,high,walk,2BR (2 roommates),7596.0
+fit,Fashion Institute of Technology,Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,35.0,Inwood,Manhattan,1099.0,47.0,1729.0,12.0,high,high,1,3BR+ (3 roommates),20748.0
+nyu_wsq,NYU (Washington Square),Greenpoint,2850.0,48.0,Highbridge,Bronx,1150.0,54.0,1700.0,6.0,medium,high,A,2BR (2 roommates),20400.0
+hunter,CUNY Hunter College,Greenpoint,2850.0,44.0,Highbridge,Bronx,1150.0,43.0,1700.0,-1.0,medium,high,4 > 6,2BR (2 roommates),20400.0
+john_jay,CUNY John Jay College,Flatbush (West)-Ditmas Park-Parkville,1640.0,60.0,Williamsbridge-Olinville,Bronx,1142.0,74.0,498.0,14.0,medium,high,2,2BR (2 roommates),5976.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Carnegie Hill,3173.0,59.0,Norwood,Bronx,1550.0,27.0,1623.0,-32.0,medium,high,D,Studio (alone),19476.0
+new_school,The New School,Upper East Side-Lenox Hill-Roosevelt Island,2911.0,36.0,Melrose,Bronx,1188.0,46.0,1723.0,10.0,medium,high,2,2BR (2 roommates),20676.0
+brooklyn_college,CUNY Brooklyn College,East Midtown-Turtle Bay,3613.0,61.0,Bath Beach,Brooklyn,1750.0,68.0,1863.0,7.0,high,high,D > Q,Studio (alone),22356.0
+fit,Fashion Institute of Technology,Murray Hill-Kips Bay,3613.0,26.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,36.0,1418.0,10.0,high,high,1,Studio (alone),17016.0
+columbia,Columbia University (Morningside),Financial District-Battery Park City,4140.0,41.0,Norwood,Bronx,1550.0,46.0,2590.0,5.0,medium,high,D,Studio (alone),31080.0
+brooklyn_college,CUNY Brooklyn College,East Village,3363.0,59.0,Bath Beach,Brooklyn,1750.0,68.0,1613.0,9.0,high,high,D > Q,Studio (alone),19356.0
+john_jay,CUNY John Jay College,Upper East Side-Carnegie Hill,3173.0,40.0,Norwood,Bronx,1550.0,50.0,1623.0,10.0,medium,high,D,Studio (alone),19476.0
+columbia,Columbia University (Morningside),Financial District-Battery Park City,5305.0,41.0,Bedford Park,Bronx,1879.0,44.0,3426.0,3.0,high,high,D,1BR (alone),41112.0
+columbia,Columbia University (Morningside),Flatbush (West)-Ditmas Park-Parkville,2604.0,68.0,Norwood,Bronx,1550.0,46.0,1054.0,-22.0,medium,high,D,Studio (alone),12648.0
+columbia,Columbia University (Morningside),Flatbush (West)-Ditmas Park-Parkville,2866.0,68.0,Allerton,Bronx,1804.0,61.0,1062.0,-7.0,medium,medium,2 > 1,1BR (alone),12744.0
+baruch,CUNY Baruch College,Financial District-Battery Park City,5305.0,26.0,East Harlem (South),Manhattan,2825.0,33.0,2480.0,7.0,high,high,6,1BR (alone),29760.0
+baruch,CUNY Baruch College,Flatbush (West)-Ditmas Park-Parkville,2866.0,52.0,Bedford Park,Bronx,1879.0,57.0,987.0,5.0,high,high,4 > 6,1BR (alone),11844.0
+hunter,CUNY Hunter College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,51.0,Norwood,Bronx,1550.0,58.0,1834.0,7.0,medium,high,4 > 6,Studio (alone),22008.0
+nyu_wsq,NYU (Washington Square),Bushwick (West),2768.0,38.0,Sunset Park (Central),Brooklyn,1973.0,50.0,795.0,12.0,high,high,R > D,Studio (alone),9540.0
+john_jay,CUNY John Jay College,Financial District-Battery Park City,3804.0,38.0,Highbridge,Bronx,1150.0,50.0,2654.0,12.0,medium,high,A,2BR (2 roommates),31848.0
+fit,Fashion Institute of Technology,Greenpoint,2850.0,46.0,Highbridge,Bronx,1150.0,55.0,1700.0,9.0,medium,high,A > E,2BR (2 roommates),20400.0
+lehman,CUNY Lehman College,East Midtown-Turtle Bay,2999.0,53.0,University Heights (North)-Fordham,Bronx,980.0,22.0,2019.0,-31.0,medium,high,4,3BR+ (3 roommates),24228.0
+lehman,CUNY Lehman College,East Village,2625.0,66.0,University Heights (North)-Fordham,Bronx,980.0,22.0,1645.0,-44.0,medium,high,4,3BR+ (3 roommates),19740.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Financial District-Battery Park City,3463.0,21.0,East Flatbush-Erasmus,Brooklyn,1183.0,35.0,2280.0,14.0,high,high,5,3BR+ (3 roommates),27360.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Flatbush (West)-Ditmas Park-Parkville,1221.0,36.0,Woodhaven,Queens,1000.0,48.0,221.0,12.0,high,high,J > A,3BR+ (3 roommates),2652.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,24.0,East Flatbush-Erasmus,Brooklyn,1486.0,35.0,1467.0,11.0,high,high,5,2BR (2 roommates),17604.0
+fordham_rh,Fordham University (Rose Hill),Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,75.0,Allerton,Bronx,1804.0,32.0,2843.0,-43.0,medium,medium,walk,1BR (alone),34116.0
+laguardia_cc,CUNY LaGuardia Community College,Greenpoint,2500.0,33.0,Elmhurst,Queens,1133.0,37.0,1367.0,4.0,high,high,R,3BR+ (3 roommates),16404.0
+lehman,CUNY Lehman College,Greenpoint,2850.0,78.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,1708.0,-33.0,medium,high,walk,2BR (2 roommates),20496.0
+bmcc,CUNY Borough of Manhattan CC,Greenpoint,2850.0,55.0,Highbridge,Bronx,1150.0,59.0,1700.0,4.0,medium,high,A,2BR (2 roommates),20400.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Carnegie Hill,3173.0,39.0,Jamaica Hills-Briarwood,Queens,1842.0,49.0,1331.0,10.0,high,high,F,Studio (alone),15972.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),East Midtown-Turtle Bay,4948.0,37.0,Brownsville,Brooklyn,1950.0,39.0,2998.0,2.0,high,high,3 > 4,1BR (alone),35976.0
+john_jay,CUNY John Jay College,Greenpoint,4525.0,53.0,Bedford Park,Bronx,1879.0,49.0,2646.0,-4.0,high,high,D,1BR (alone),31752.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),East Village,4018.0,30.0,Brownsville,Brooklyn,1950.0,39.0,2068.0,9.0,high,high,3 > 4,1BR (alone),24816.0
+laguardia_cc,CUNY LaGuardia Community College,Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,52.0,Bedford Park,Bronx,1879.0,65.0,2768.0,13.0,high,high,D > E,1BR (alone),33216.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,2.0,Brooklyn Heights,Brooklyn,3250.0,11.0,399.0,9.0,high,high,walk,Studio (alone),4788.0
+bmcc,CUNY Borough of Manhattan CC,Greenpoint,3710.0,55.0,Norwood,Bronx,1550.0,63.0,2160.0,8.0,medium,high,D > A,Studio (alone),25920.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Yorkville,4688.0,39.0,Borough Park,Brooklyn,1083.0,51.0,3605.0,12.0,high,high,D,3BR+ (3 roommates),43260.0
+ccny,CUNY City College,Upper East Side-Yorkville,4688.0,52.0,University Heights (North)-Fordham,Bronx,980.0,40.0,3708.0,-12.0,medium,high,D,3BR+ (3 roommates),44496.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Carnegie Hill,2913.0,35.0,Concourse-Concourse Village,Bronx,1316.0,48.0,1597.0,13.0,high,high,B > A,2BR (2 roommates),19164.0
+columbia,Columbia University (Morningside),Upper East Side-Lenox Hill-Roosevelt Island,2911.0,46.0,University Heights (North)-Fordham,Bronx,1179.0,43.0,1732.0,-3.0,high,high,1,2BR (2 roommates),20784.0
+hunter,CUNY Hunter College,Upper East Side-Carnegie Hill,2913.0,12.0,East Harlem (South),Manhattan,1636.0,20.0,1277.0,8.0,high,high,6,2BR (2 roommates),15324.0
+baruch,CUNY Baruch College,Upper East Side-Lenox Hill-Roosevelt Island,4609.0,36.0,Mott Haven-Port Morris,Bronx,1233.0,44.0,3376.0,8.0,high,high,6,3BR+ (3 roommates),40512.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Lenox Hill-Roosevelt Island,4609.0,68.0,Gravesend (West),Brooklyn,1067.0,57.0,3542.0,-11.0,high,high,D > Q,3BR+ (3 roommates),42504.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Lenox Hill-Roosevelt Island,2911.0,71.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,1769.0,-20.0,medium,high,walk,2BR (2 roommates),21228.0
+hunter,CUNY Hunter College,East Midtown-Turtle Bay,2999.0,17.0,Mott Haven-Port Morris,Bronx,1233.0,31.0,1766.0,14.0,high,high,6,3BR+ (3 roommates),21192.0
+ccny,CUNY City College,Hell's Kitchen,2441.0,42.0,University Heights (North)-Fordham,Bronx,980.0,40.0,1461.0,-2.0,medium,high,D,3BR+ (3 roommates),17532.0
+john_jay,CUNY John Jay College,East Midtown-Turtle Bay,2999.0,31.0,Inwood,Manhattan,1099.0,46.0,1900.0,15.0,high,high,A,3BR+ (3 roommates),22800.0
+ccny,CUNY City College,Chelsea-Hudson Yards,3546.0,43.0,University Heights (North)-Fordham,Bronx,980.0,40.0,2566.0,-3.0,medium,high,D,3BR+ (3 roommates),30792.0
+brooklyn_college,CUNY Brooklyn College,Murray Hill-Kips Bay,3250.0,67.0,Brownsville,Brooklyn,1275.0,48.0,1975.0,-19.0,high,high,3 > 5,2BR (2 roommates),23700.0
+nyu_wsq,NYU (Washington Square),Hell's Kitchen,2441.0,30.0,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,1221.0,43.0,1220.0,13.0,high,high,B,3BR+ (3 roommates),14640.0
+nyu_wsq,NYU (Washington Square),Chelsea-Hudson Yards,3546.0,23.0,Prospect Heights,Brooklyn,1916.0,36.0,1630.0,13.0,high,high,B,3BR+ (3 roommates),19560.0
+john_jay,CUNY John Jay College,East Village,2625.0,45.0,University Heights (North)-Fordham,Bronx,980.0,52.0,1645.0,7.0,medium,high,D,3BR+ (3 roommates),19740.0
+ccny,CUNY City College,Financial District-Battery Park City,3804.0,48.0,University Heights (North)-Fordham,Bronx,1179.0,40.0,2625.0,-8.0,high,high,D,2BR (2 roommates),31500.0
+hunter,CUNY Hunter College,East Village,2625.0,36.0,University Heights (North)-Fordham,Bronx,980.0,49.0,1645.0,13.0,medium,high,4 > 6,3BR+ (3 roommates),19740.0
+ccny,CUNY City College,Flatbush (West)-Ditmas Park-Parkville,1640.0,72.0,Williamsbridge-Olinville,Bronx,1142.0,64.0,498.0,-8.0,medium,high,2,2BR (2 roommates),5976.0
+ccny,CUNY City College,Bushwick (East),1408.0,77.0,University Heights (North)-Fordham,Bronx,980.0,40.0,428.0,-37.0,medium,high,D,3BR+ (3 roommates),5136.0
+fordham_rh,Fordham University (Rose Hill),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,83.0,University Heights (North)-Fordham,Bronx,980.0,24.0,1883.0,-59.0,medium,high,walk,3BR+ (3 roommates),22596.0
+nyu_wsq,NYU (Washington Square),Bushwick (East),1408.0,47.0,University Heights (North)-Fordham,Bronx,980.0,56.0,428.0,9.0,medium,high,D,3BR+ (3 roommates),5136.0
+baruch,CUNY Baruch College,Bushwick (West),1775.0,46.0,Highbridge,Bronx,1150.0,52.0,625.0,6.0,medium,high,4 > 6,2BR (2 roommates),7500.0
+columbia,Columbia University (Morningside),Greenpoint,2500.0,62.0,University Heights (North)-Fordham,Bronx,980.0,43.0,1520.0,-19.0,medium,high,1,3BR+ (3 roommates),18240.0
+columbia,Columbia University (Morningside),Upper East Side-Yorkville,3173.0,44.0,Norwood,Bronx,1550.0,46.0,1623.0,2.0,medium,high,D,Studio (alone),19476.0
+columbia,Columbia University (Morningside),Upper East Side-Yorkville,4200.0,44.0,Bedford Park,Bronx,1879.0,44.0,2321.0,0.0,high,high,D,1BR (alone),27852.0
+baruch,CUNY Baruch College,Upper East Side-Yorkville,4200.0,37.0,Melrose,Bronx,1935.0,49.0,2265.0,12.0,medium,high,5 > 6,1BR (alone),27180.0
+fit,Fashion Institute of Technology,Upper East Side-Carnegie Hill,2913.0,37.0,Melrose,Bronx,1188.0,46.0,1725.0,9.0,medium,high,2 > 1,2BR (2 roommates),20700.0
+john_jay,CUNY John Jay College,Bushwick (East),1775.0,67.0,Williamsbridge-Olinville,Bronx,1142.0,74.0,633.0,7.0,medium,high,2,2BR (2 roommates),7596.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Lenox Hill-Roosevelt Island,3192.0,39.0,Bedford Park,Bronx,1750.0,54.0,1442.0,15.0,medium,high,D,Studio (alone),17304.0
+ccny,CUNY City College,East Midtown-Turtle Bay,3613.0,41.0,Norwood,Bronx,1550.0,39.0,2063.0,-2.0,medium,high,D,Studio (alone),24756.0
+baruch,CUNY Baruch College,East Midtown-Turtle Bay,3613.0,24.0,Chinatown-Two Bridges,Manhattan,2580.0,32.0,1033.0,8.0,medium,high,F > 6,Studio (alone),12396.0
+hunter,CUNY Hunter College,East Midtown-Turtle Bay,4948.0,17.0,East Harlem (South),Manhattan,2825.0,20.0,2123.0,3.0,high,high,6,1BR (alone),25476.0
+columbia,Columbia University (Morningside),Hell's Kitchen,3858.0,34.0,Norwood,Bronx,1550.0,46.0,2308.0,12.0,medium,high,D,Studio (alone),27696.0
+hunter,CUNY Hunter College,Murray Hill-Kips Bay,3613.0,25.0,Concourse-Concourse Village,Bronx,2061.0,38.0,1552.0,13.0,high,high,4 > 6,Studio (alone),18624.0
+columbia,Columbia University (Morningside),Hell's Kitchen,4850.0,34.0,Bedford Park,Bronx,1879.0,44.0,2971.0,10.0,high,high,D,1BR (alone),35652.0
+columbia,Columbia University (Morningside),Chelsea-Hudson Yards,4493.0,38.0,Norwood,Bronx,1550.0,46.0,2943.0,8.0,medium,high,D,Studio (alone),35316.0
+ccny,CUNY City College,East Village,3363.0,55.0,Norwood,Bronx,1550.0,39.0,1813.0,-16.0,medium,high,D,Studio (alone),21756.0
+john_jay,CUNY John Jay College,Greenpoint,3710.0,53.0,Norwood,Bronx,1550.0,50.0,2160.0,-3.0,medium,high,D,Studio (alone),25920.0
+columbia,Columbia University (Morningside),Chelsea-Hudson Yards,6182.0,38.0,Bedford Park,Bronx,1879.0,44.0,4303.0,6.0,high,high,D,1BR (alone),51636.0
+baruch,CUNY Baruch College,Hell's Kitchen,4850.0,37.0,Melrose,Bronx,1935.0,49.0,2915.0,12.0,medium,high,5 > 6,1BR (alone),34980.0
+john_jay,CUNY John Jay College,Upper East Side-Yorkville,2913.0,37.0,Highbridge,Bronx,1150.0,50.0,1763.0,13.0,medium,high,A,2BR (2 roommates),21156.0
+baruch,CUNY Baruch College,Chelsea-Hudson Yards,6182.0,30.0,East Harlem (South),Manhattan,2825.0,33.0,3357.0,3.0,high,high,6,1BR (alone),40284.0
+baruch,CUNY Baruch College,East Village,3363.0,26.0,Chinatown-Two Bridges,Manhattan,2580.0,32.0,783.0,6.0,medium,high,F > 6,Studio (alone),9396.0
+hunter,CUNY Hunter College,East Village,4018.0,36.0,Bedford Park,Bronx,1879.0,48.0,2139.0,12.0,high,high,4 > 6,1BR (alone),25668.0
+columbia,Columbia University (Morningside),Bushwick (East),2768.0,72.0,Norwood,Bronx,1550.0,46.0,1218.0,-26.0,medium,high,D,Studio (alone),14616.0
+fit,Fashion Institute of Technology,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,45.0,Norwood,Bronx,1550.0,55.0,1834.0,10.0,medium,high,D > 1,Studio (alone),22008.0
+columbia,Columbia University (Morningside),Bushwick (East),3200.0,72.0,Allerton,Bronx,1804.0,61.0,1396.0,-11.0,medium,medium,2 > 1,1BR (alone),16752.0
+john_jay,CUNY John Jay College,Chelsea-Hudson Yards,4062.0,34.0,Longwood,Bronx,1290.0,49.0,2772.0,15.0,medium,medium,2,2BR (2 roommates),33264.0
+baruch,CUNY Baruch College,Bushwick (East),3200.0,53.0,Bedford Park,Bronx,1879.0,57.0,1321.0,4.0,high,high,4 > 6,1BR (alone),15852.0
+new_school,The New School,Bushwick (West),1775.0,38.0,Highbridge,Bronx,1150.0,52.0,625.0,14.0,medium,high,4,2BR (2 roommates),7500.0
+fordham_rh,Fordham University (Rose Hill),Greenpoint,3710.0,81.0,Norwood,Bronx,1550.0,27.0,2160.0,-54.0,medium,high,D,Studio (alone),25920.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Yorkville,4688.0,50.0,Richmond Hill,Queens,1000.0,54.0,3688.0,4.0,medium,high,J > A,3BR+ (3 roommates),44256.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Carnegie Hill,4688.0,39.0,Elmhurst,Queens,1133.0,37.0,3555.0,-2.0,high,high,R,3BR+ (3 roommates),42660.0
+lehman,CUNY Lehman College,Upper East Side-Carnegie Hill,2913.0,48.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,1771.0,-3.0,medium,high,walk,2BR (2 roommates),21252.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Carnegie Hill,2913.0,43.0,Melrose,Bronx,1188.0,55.0,1725.0,12.0,medium,high,2,2BR (2 roommates),20700.0
+fit,Fashion Institute of Technology,East Midtown-Turtle Bay,4948.0,24.0,Hamilton Heights-Sugar Hill,Manhattan,2700.0,36.0,2248.0,12.0,high,high,1,1BR (alone),26976.0
+laguardia_cc,CUNY LaGuardia Community College,East Midtown-Turtle Bay,3250.0,24.0,North Corona,Queens,1425.0,35.0,1825.0,11.0,medium,high,7,2BR (2 roommates),21900.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Murray Hill-Kips Bay,3250.0,45.0,Brownsville,Brooklyn,1275.0,39.0,1975.0,-6.0,high,high,3 > 4,2BR (2 roommates),23700.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Hell's Kitchen,2441.0,43.0,Richmond Hill,Queens,1000.0,54.0,1441.0,11.0,medium,high,J > A,3BR+ (3 roommates),17292.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Chelsea-Hudson Yards,3546.0,37.0,Woodhaven,Queens,1000.0,48.0,2546.0,11.0,high,high,J > A,3BR+ (3 roommates),30552.0
+fit,Fashion Institute of Technology,East Village,4018.0,34.0,Melrose,Bronx,1935.0,46.0,2083.0,12.0,medium,high,2 > 1,1BR (alone),24996.0
+laguardia_cc,CUNY LaGuardia Community College,East Village,2748.0,50.0,Highbridge,Bronx,1150.0,62.0,1598.0,12.0,medium,high,4 > 7,2BR (2 roommates),19176.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Bushwick (East),1408.0,44.0,Richmond Hill,Queens,1000.0,54.0,408.0,10.0,medium,high,J > A,3BR+ (3 roommates),4896.0
+ccny,CUNY City College,Greenpoint,4525.0,63.0,Allerton,Bronx,1804.0,58.0,2721.0,-5.0,medium,medium,2,1BR (alone),32652.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Greenpoint,3710.0,43.0,Bath Beach,Brooklyn,1750.0,54.0,1960.0,11.0,high,high,D > R,Studio (alone),23520.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Yorkville,4200.0,50.0,Melrose,Bronx,1935.0,63.0,2265.0,13.0,medium,high,2,1BR (alone),27180.0
+john_jay,CUNY John Jay College,Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,44.0,Bedford Park,Bronx,1879.0,49.0,2768.0,5.0,high,high,D,1BR (alone),33216.0
+bmcc,CUNY Borough of Manhattan CC,Murray Hill-Kips Bay,4948.0,42.0,Melrose,Bronx,1935.0,55.0,3013.0,13.0,medium,high,2,1BR (alone),36156.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Hell's Kitchen,4850.0,43.0,Brownsville,Brooklyn,1950.0,39.0,2900.0,-4.0,high,high,3 > 4,1BR (alone),34800.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Chelsea-Hudson Yards,6182.0,37.0,Brownsville,Brooklyn,1950.0,39.0,4232.0,2.0,high,high,3 > 4,1BR (alone),50784.0
+lehman,CUNY Lehman College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,81.0,Norwood,Bronx,1550.0,19.0,1834.0,-62.0,medium,high,walk,Studio (alone),22008.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Bushwick (East),3200.0,44.0,Brownsville,Brooklyn,1950.0,39.0,1250.0,-5.0,high,high,3 > 4,1BR (alone),15000.0
+lehman,CUNY Lehman College,Bushwick (West),3200.0,83.0,Allerton,Bronx,1804.0,44.0,1396.0,-39.0,medium,medium,walk,1BR (alone),16752.0
+bmcc,CUNY Borough of Manhattan CC,Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,28.0,Harlem (South),Manhattan,2550.0,42.0,1099.0,14.0,high,high,2,Studio (alone),13188.0
+laguardia_cc,CUNY LaGuardia Community College,Greenpoint,4525.0,33.0,Flushing-Willets Point,Queens,2397.0,34.0,2128.0,1.0,high,high,7,1BR (alone),25536.0
+hunter,CUNY Hunter College,Upper East Side-Yorkville,4688.0,23.0,Mott Haven-Port Morris,Bronx,1233.0,31.0,3455.0,8.0,high,high,6,3BR+ (3 roommates),41460.0
+john_jay,CUNY John Jay College,Upper East Side-Yorkville,4688.0,37.0,University Heights (North)-Fordham,Bronx,980.0,52.0,3708.0,15.0,medium,high,D,3BR+ (3 roommates),44496.0
+fit,Fashion Institute of Technology,Upper East Side-Carnegie Hill,4688.0,37.0,Inwood,Manhattan,1099.0,47.0,3589.0,10.0,high,high,1,3BR+ (3 roommates),43068.0
+ccny,CUNY City College,East Midtown-Turtle Bay,2999.0,41.0,University Heights (North)-Fordham,Bronx,980.0,40.0,2019.0,-1.0,medium,high,D,3BR+ (3 roommates),24228.0
+pratt,Pratt Institute,Upper East Side-Lenox Hill-Roosevelt Island,4609.0,66.0,Richmond Hill,Queens,1000.0,66.0,3609.0,0.0,medium,high,J > A > G,3BR+ (3 roommates),43308.0
+nyu_wsq,NYU (Washington Square),East Midtown-Turtle Bay,2999.0,26.0,Washington Heights (South),Manhattan,1263.0,39.0,1736.0,13.0,high,high,A,3BR+ (3 roommates),20832.0
+new_school,The New School,Murray Hill-Kips Bay,2999.0,29.0,Washington Heights (South),Manhattan,1263.0,40.0,1736.0,11.0,high,high,A,3BR+ (3 roommates),20832.0
+hunter,CUNY Hunter College,Hell's Kitchen,2441.0,34.0,University Heights (South)-Morris Heights,Bronx,1026.0,47.0,1415.0,13.0,medium,high,4 > 6,3BR+ (3 roommates),16980.0
+ccny,CUNY City College,East Village,2625.0,55.0,University Heights (North)-Fordham,Bronx,980.0,40.0,1645.0,-15.0,medium,high,D,3BR+ (3 roommates),19740.0
+john_jay,CUNY John Jay College,Chelsea-Hudson Yards,3546.0,34.0,Inwood,Manhattan,1099.0,46.0,2447.0,12.0,high,high,A,3BR+ (3 roommates),29364.0
+hunter,CUNY Hunter College,Chelsea-Hudson Yards,3546.0,38.0,University Heights (North)-Fordham,Bronx,980.0,49.0,2566.0,11.0,medium,high,4 > 6,3BR+ (3 roommates),30792.0
+nyu_wsq,NYU (Washington Square),East Village,2625.0,22.0,Prospect Heights,Brooklyn,1916.0,36.0,709.0,14.0,high,high,B,3BR+ (3 roommates),8508.0
+john_jay,CUNY John Jay College,Bushwick (East),1408.0,67.0,University Heights (North)-Fordham,Bronx,980.0,52.0,428.0,-15.0,medium,high,D,3BR+ (3 roommates),5136.0
+hunter,CUNY Hunter College,Bushwick (East),1408.0,61.0,University Heights (North)-Fordham,Bronx,980.0,49.0,428.0,-12.0,medium,high,4 > 6,3BR+ (3 roommates),5136.0
+columbia,Columbia University (Morningside),Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,50.0,University Heights (North)-Fordham,Bronx,980.0,43.0,1848.0,-7.0,medium,high,1,3BR+ (3 roommates),22176.0
+baruch,CUNY Baruch College,Upper East Side-Yorkville,3173.0,37.0,Concourse-Concourse Village,Bronx,2061.0,47.0,1112.0,10.0,high,high,4 > 6,Studio (alone),13344.0
+ccny,CUNY City College,Upper East Side-Yorkville,3173.0,52.0,Norwood,Bronx,1550.0,39.0,1623.0,-13.0,medium,high,D,Studio (alone),19476.0
+hunter,CUNY Hunter College,Upper East Side-Yorkville,4200.0,23.0,Concourse-Concourse Village,Bronx,2200.0,38.0,2000.0,15.0,high,high,4 > 6,1BR (alone),24000.0
+columbia,Columbia University (Morningside),East Midtown-Turtle Bay,3613.0,40.0,Norwood,Bronx,1550.0,46.0,2063.0,6.0,medium,high,D,Studio (alone),24756.0
+new_school,The New School,Upper East Side-Lenox Hill-Roosevelt Island,3192.0,36.0,Sunset Park (East)-Borough Park (West),Brooklyn,1981.0,49.0,1211.0,13.0,high,high,D,Studio (alone),14532.0
+columbia,Columbia University (Morningside),East Midtown-Turtle Bay,4948.0,40.0,Bedford Park,Bronx,1879.0,44.0,3069.0,4.0,high,high,D,1BR (alone),36828.0
+ccny,CUNY City College,Hell's Kitchen,3858.0,42.0,Norwood,Bronx,1550.0,39.0,2308.0,-3.0,medium,high,D,Studio (alone),27696.0
+baruch,CUNY Baruch College,East Midtown-Turtle Bay,4948.0,24.0,East Harlem (South),Manhattan,2825.0,33.0,2123.0,9.0,high,high,6,1BR (alone),25476.0
+ccny,CUNY City College,Chelsea-Hudson Yards,4493.0,43.0,Norwood,Bronx,1550.0,39.0,2943.0,-4.0,medium,high,D,Studio (alone),35316.0
+john_jay,CUNY John Jay College,Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,44.0,Norwood,Bronx,1550.0,50.0,2099.0,6.0,medium,high,D,Studio (alone),25188.0
+nyu_wsq,NYU (Washington Square),Murray Hill-Kips Bay,4948.0,32.0,Kensington,Brooklyn,2500.0,46.0,2448.0,14.0,high,high,F,1BR (alone),29376.0
+baruch,CUNY Baruch College,Hell's Kitchen,3858.0,37.0,Concourse-Concourse Village,Bronx,2061.0,47.0,1797.0,10.0,high,high,4 > 6,Studio (alone),21564.0
+hunter,CUNY Hunter College,Hell's Kitchen,4850.0,34.0,Bedford Park,Bronx,1879.0,48.0,2971.0,14.0,high,high,4 > 6,1BR (alone),35652.0
+columbia,Columbia University (Morningside),East Village,3363.0,50.0,Norwood,Bronx,1550.0,46.0,1813.0,-4.0,medium,high,D,Studio (alone),21756.0
+baruch,CUNY Baruch College,Chelsea-Hudson Yards,4493.0,30.0,Astoria (Central),Queens,2541.0,44.0,1952.0,14.0,high,high,N > 6,Studio (alone),23424.0
+columbia,Columbia University (Morningside),East Village,4018.0,50.0,Allerton,Bronx,1804.0,61.0,2214.0,11.0,medium,medium,2 > 1,1BR (alone),26568.0
+hunter,CUNY Hunter College,Chelsea-Hudson Yards,6182.0,38.0,Bedford Park,Bronx,1879.0,48.0,4303.0,10.0,high,high,4 > 6,1BR (alone),51636.0
+baruch,CUNY Baruch College,East Village,4018.0,26.0,East Harlem (South),Manhattan,2825.0,33.0,1193.0,7.0,high,high,6,1BR (alone),14316.0
+brooklyn_college,CUNY Brooklyn College,Financial District-Battery Park City,4140.0,45.0,Brownsville,Brooklyn,1799.0,48.0,2341.0,3.0,medium,high,3 > 5,Studio (alone),28092.0
+pratt,Pratt Institute,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,31.0,Kensington,Brooklyn,1500.0,43.0,1453.0,12.0,high,high,G,2BR (2 roommates),17436.0
+john_jay,CUNY John Jay College,East Midtown-Turtle Bay,3250.0,31.0,Concourse-Concourse Village,Bronx,1316.0,45.0,1934.0,14.0,high,high,B > A,2BR (2 roommates),23208.0
+ccny,CUNY City College,Bushwick (East),2768.0,77.0,Norwood,Bronx,1550.0,39.0,1218.0,-38.0,medium,high,D,Studio (alone),14616.0
+brooklyn_college,CUNY Brooklyn College,Flatbush (West)-Ditmas Park-Parkville,2604.0,19.0,Midwood,Brooklyn,2014.0,21.0,590.0,2.0,high,high,walk,Studio (alone),7080.0
+baruch,CUNY Baruch College,Bushwick (East),2768.0,53.0,Norwood,Bronx,1550.0,63.0,1218.0,10.0,medium,high,D,Studio (alone),14616.0
+pratt,Pratt Institute,Bushwick (West),2768.0,49.0,Mapleton-Midwood (West),Brooklyn,2014.0,49.0,754.0,0.0,high,high,F > G,Studio (alone),9048.0
+hunter,CUNY Hunter College,Bushwick (East),3200.0,61.0,Allerton,Bronx,1804.0,61.0,1396.0,0.0,medium,medium,2 > 5 > 6,1BR (alone),16752.0
+john_jay,CUNY John Jay College,East Village,2748.0,45.0,Highbridge,Bronx,1150.0,50.0,1598.0,5.0,medium,high,A,2BR (2 roommates),19176.0
+fordham_rh,Fordham University (Rose Hill),Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,75.0,Norwood,Bronx,1550.0,27.0,2099.0,-48.0,medium,high,D,Studio (alone),25188.0
+fit,Fashion Institute of Technology,Upper East Side-Yorkville,4200.0,32.0,Melrose,Bronx,1935.0,46.0,2265.0,14.0,medium,high,2 > 1,1BR (alone),27180.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Yorkville,2913.0,44.0,Melrose,Bronx,1188.0,59.0,1725.0,15.0,medium,high,5 > 7,2BR (2 roommates),20700.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Carnegie Hill,4200.0,59.0,Allerton,Bronx,1804.0,32.0,2396.0,-27.0,medium,medium,walk,1BR (alone),28752.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),East Midtown-Turtle Bay,2999.0,37.0,Woodhaven,Queens,1000.0,48.0,1999.0,11.0,high,high,J > A,3BR+ (3 roommates),23988.0
+bmcc,CUNY Borough of Manhattan CC,Murray Hill-Kips Bay,2999.0,42.0,Brownsville,Brooklyn,1092.0,53.0,1907.0,11.0,high,high,3,3BR+ (3 roommates),22884.0
+fit,Fashion Institute of Technology,Hell's Kitchen,4850.0,26.0,Washington Heights (South),Manhattan,2624.0,40.0,2226.0,14.0,high,high,A > E,1BR (alone),26712.0
+laguardia_cc,CUNY LaGuardia Community College,Hell's Kitchen,3298.0,36.0,Jamaica Hills-Briarwood,Queens,1377.0,49.0,1921.0,13.0,high,high,F,2BR (2 roommates),23052.0
+fit,Fashion Institute of Technology,Chelsea-Hudson Yards,6182.0,10.0,Upper West Side-Lincoln Square,Manhattan,4756.0,22.0,1426.0,12.0,high,high,1,1BR (alone),17112.0
+laguardia_cc,CUNY LaGuardia Community College,Chelsea-Hudson Yards,4062.0,40.0,Richmond Hill,Queens,1275.0,55.0,2787.0,15.0,medium,high,J > E,2BR (2 roommates),33444.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),East Village,2625.0,30.0,Borough Park,Brooklyn,1083.0,45.0,1542.0,15.0,high,high,D > R,3BR+ (3 roommates),18504.0
+lehman,CUNY Lehman College,Financial District-Battery Park City,3463.0,59.0,University Heights (North)-Fordham,Bronx,980.0,22.0,2483.0,-37.0,medium,high,4,3BR+ (3 roommates),29796.0
+lehman,CUNY Lehman College,Flatbush (West)-Ditmas Park-Parkville,1221.0,88.0,University Heights (North)-Fordham,Bronx,980.0,22.0,241.0,-66.0,medium,high,4,3BR+ (3 roommates),2892.0
+brooklyn_college,CUNY Brooklyn College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,62.0,Brownsville,Brooklyn,1950.0,48.0,2253.0,-14.0,high,high,3 > 5,1BR (alone),27036.0
+new_school,The New School,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,37.0,Melrose,Bronx,1935.0,46.0,2268.0,9.0,medium,high,2,1BR (alone),27216.0
+ccny,CUNY City College,Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,53.0,Allerton,Bronx,1804.0,58.0,2843.0,5.0,medium,medium,2,1BR (alone),34116.0
+pratt,Pratt Institute,Bushwick (West),3200.0,49.0,Woodhaven,Queens,2038.0,60.0,1162.0,11.0,high,high,J > A > G,1BR (alone),13944.0
+fit,Fashion Institute of Technology,Bushwick (East),3200.0,56.0,Allerton,Bronx,1804.0,65.0,1396.0,9.0,medium,medium,2 > 1,1BR (alone),16752.0
+laguardia_cc,CUNY LaGuardia Community College,Bushwick (East),1775.0,64.0,Highbridge,Bronx,1150.0,62.0,625.0,-2.0,medium,high,4 > 7,2BR (2 roommates),7500.0
+bmcc,CUNY Borough of Manhattan CC,Murray Hill-Kips Bay,3613.0,42.0,Brownsville,Brooklyn,1799.0,53.0,1814.0,11.0,medium,high,3,Studio (alone),21768.0
+laguardia_cc,CUNY LaGuardia Community College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,54.0,Norwood,Bronx,1550.0,66.0,1834.0,12.0,medium,high,D > E,Studio (alone),22008.0
+bmcc,CUNY Borough of Manhattan CC,Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,28.0,Harlem (South),Manhattan,3175.0,42.0,1472.0,14.0,high,high,2,1BR (alone),17664.0
+baruch,CUNY Baruch College,Upper East Side-Yorkville,4688.0,37.0,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,1221.0,52.0,3467.0,15.0,high,high,Q,3BR+ (3 roommates),41604.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Yorkville,4688.0,66.0,Gravesend (West),Brooklyn,1067.0,57.0,3621.0,-9.0,high,high,D > Q,3BR+ (3 roommates),43452.0
+columbia,Columbia University (Morningside),Upper East Side-Yorkville,2913.0,44.0,University Heights (North)-Fordham,Bronx,1179.0,43.0,1734.0,-1.0,high,high,1,2BR (2 roommates),20808.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Yorkville,2913.0,60.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,1771.0,-9.0,medium,high,walk,2BR (2 roommates),21252.0
+ccny,CUNY City College,Upper East Side-Lenox Hill-Roosevelt Island,4609.0,54.0,University Heights (North)-Fordham,Bronx,980.0,40.0,3629.0,-14.0,medium,high,D,3BR+ (3 roommates),43548.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Carnegie Hill,4688.0,59.0,University Heights (North)-Fordham,Bronx,980.0,24.0,3708.0,-35.0,medium,high,walk,3BR+ (3 roommates),44496.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Lenox Hill-Roosevelt Island,4609.0,39.0,Borough Park,Brooklyn,1083.0,51.0,3526.0,12.0,high,high,D,3BR+ (3 roommates),42312.0
+columbia,Columbia University (Morningside),Murray Hill-Kips Bay,2999.0,48.0,University Heights (North)-Fordham,Bronx,980.0,43.0,2019.0,-5.0,medium,high,1,3BR+ (3 roommates),24228.0
+pratt,Pratt Institute,East Midtown-Turtle Bay,2999.0,46.0,Woodhaven,Queens,1000.0,60.0,1999.0,14.0,high,high,J > A > G,3BR+ (3 roommates),23988.0
+columbia,Columbia University (Morningside),Hell's Kitchen,3298.0,34.0,University Heights (North)-Fordham,Bronx,1179.0,43.0,2119.0,9.0,high,high,1,2BR (2 roommates),25428.0
+baruch,CUNY Baruch College,Hell's Kitchen,2441.0,37.0,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,1221.0,52.0,1220.0,15.0,high,high,Q,3BR+ (3 roommates),14640.0
+brooklyn_college,CUNY Brooklyn College,Hell's Kitchen,2441.0,68.0,Gravesend (West),Brooklyn,1067.0,57.0,1374.0,-11.0,high,high,D > Q,3BR+ (3 roommates),16488.0
+columbia,Columbia University (Morningside),Chelsea-Hudson Yards,4062.0,38.0,University Heights (North)-Fordham,Bronx,1179.0,43.0,2883.0,5.0,high,high,1,2BR (2 roommates),34596.0
+fordham_rh,Fordham University (Rose Hill),Hell's Kitchen,3298.0,62.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,2156.0,-11.0,medium,high,walk,2BR (2 roommates),25872.0
+baruch,CUNY Baruch College,Chelsea-Hudson Yards,3546.0,30.0,Mott Haven-Port Morris,Bronx,1233.0,44.0,2313.0,14.0,high,high,6,3BR+ (3 roommates),27756.0
+brooklyn_college,CUNY Brooklyn College,Chelsea-Hudson Yards,3546.0,62.0,Gravesend (West),Brooklyn,1067.0,57.0,2479.0,-5.0,high,high,D > Q,3BR+ (3 roommates),29748.0
+fordham_rh,Fordham University (Rose Hill),Chelsea-Hudson Yards,4062.0,65.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,2920.0,-14.0,medium,high,walk,2BR (2 roommates),35040.0
+pratt,Pratt Institute,East Village,2625.0,45.0,Cypress Hills,Brooklyn,1199.0,54.0,1426.0,9.0,high,medium,J > A > G,3BR+ (3 roommates),17112.0
+baruch,CUNY Baruch College,Financial District-Battery Park City,3804.0,26.0,East Harlem (South),Manhattan,1636.0,33.0,2168.0,7.0,high,high,6,2BR (2 roommates),26016.0
+baruch,CUNY Baruch College,Flatbush (West)-Ditmas Park-Parkville,1640.0,52.0,Highbridge,Bronx,1150.0,52.0,490.0,0.0,medium,high,4 > 6,2BR (2 roommates),5880.0
+nyu_wsq,NYU (Washington Square),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,35.0,Concourse-Concourse Village,Bronx,1316.0,48.0,1637.0,13.0,high,high,B > A,2BR (2 roommates),19644.0
+columbia,Columbia University (Morningside),Bushwick (East),1775.0,72.0,Williamsbridge-Olinville,Bronx,1142.0,67.0,633.0,-5.0,medium,high,2 > 1,2BR (2 roommates),7596.0
+hunter,CUNY Hunter College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,51.0,Highbridge,Bronx,1150.0,43.0,1803.0,-8.0,medium,high,4 > 6,2BR (2 roommates),21636.0
+ccny,CUNY City College,Bushwick (West),1775.0,68.0,Williamsbridge-Olinville,Bronx,1142.0,64.0,633.0,-4.0,medium,high,2,2BR (2 roommates),7596.0
+baruch,CUNY Baruch College,Bushwick (East),1408.0,53.0,University Heights (North)-Fordham,Bronx,980.0,58.0,428.0,5.0,medium,high,4 > 6,3BR+ (3 roommates),5136.0
+brooklyn_college,CUNY Brooklyn College,Bushwick (East),1408.0,77.0,Richmond Hill,Queens,1000.0,90.0,408.0,13.0,medium,high,J > C > S (Franklin) > B,3BR+ (3 roommates),4896.0
+fordham_rh,Fordham University (Rose Hill),Bushwick (East),1775.0,95.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,633.0,-44.0,medium,high,walk,2BR (2 roommates),7596.0
+new_school,The New School,Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,28.0,Washington Heights (South),Manhattan,1263.0,40.0,1565.0,12.0,high,high,A,3BR+ (3 roommates),18780.0
+brooklyn_college,CUNY Brooklyn College,Greenpoint,2850.0,81.0,Highbridge,Bronx,1150.0,90.0,1700.0,9.0,medium,high,4 > Q,2BR (2 roommates),20400.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Yorkville,3173.0,39.0,Bedford Park,Bronx,1750.0,54.0,1423.0,15.0,medium,high,D,Studio (alone),17076.0
+columbia,Columbia University (Morningside),Upper East Side-Lenox Hill-Roosevelt Island,3192.0,46.0,Norwood,Bronx,1550.0,46.0,1642.0,0.0,medium,high,D,Studio (alone),19704.0
+fit,Fashion Institute of Technology,Upper East Side-Carnegie Hill,3173.0,37.0,Elmhurst,Queens,2050.0,47.0,1123.0,10.0,high,high,M > F,Studio (alone),13476.0
+columbia,Columbia University (Morningside),Upper East Side-Lenox Hill-Roosevelt Island,4203.0,46.0,Allerton,Bronx,1804.0,61.0,2399.0,15.0,medium,medium,2 > 1,1BR (alone),28788.0
+baruch,CUNY Baruch College,Upper East Side-Lenox Hill-Roosevelt Island,4203.0,36.0,Melrose,Bronx,1935.0,49.0,2268.0,13.0,medium,high,5 > 6,1BR (alone),27216.0
+new_school,The New School,East Midtown-Turtle Bay,3613.0,25.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,39.0,1418.0,14.0,high,high,1 > 2,Studio (alone),17016.0
+fordham_rh,Fordham University (Rose Hill),Murray Hill-Kips Bay,3613.0,68.0,Norwood,Bronx,1550.0,27.0,2063.0,-41.0,medium,high,D,Studio (alone),24756.0
+nyu_wsq,NYU (Washington Square),Hell's Kitchen,3858.0,30.0,Forest Hills,Queens,2187.0,45.0,1671.0,15.0,high,high,F,Studio (alone),20052.0
+nyu_wsq,NYU (Washington Square),Chelsea-Hudson Yards,4493.0,23.0,Chinatown-Two Bridges,Manhattan,2580.0,22.0,1913.0,-1.0,medium,high,F,Studio (alone),22956.0
+new_school,The New School,East Village,3363.0,24.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,39.0,1168.0,15.0,high,high,1 > 2,Studio (alone),14016.0
+new_school,The New School,Financial District-Battery Park City,3804.0,23.0,East Harlem (South),Manhattan,1636.0,38.0,2168.0,15.0,high,high,6,2BR (2 roommates),26016.0
+john_jay,CUNY John Jay College,Upper East Side-Lenox Hill-Roosevelt Island,2911.0,39.0,Highbridge,Bronx,1150.0,50.0,1761.0,11.0,medium,high,A,2BR (2 roommates),21132.0
+new_school,The New School,Flatbush (West)-Ditmas Park-Parkville,1640.0,45.0,Highbridge,Bronx,1150.0,52.0,490.0,7.0,medium,high,4,2BR (2 roommates),5880.0
+fit,Fashion Institute of Technology,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,45.0,Highbridge,Bronx,1150.0,55.0,1803.0,10.0,medium,high,A > E,2BR (2 roommates),21636.0
+nyu_wsq,NYU (Washington Square),Bushwick (East),2768.0,47.0,Norwood,Bronx,1550.0,55.0,1218.0,8.0,medium,high,D,Studio (alone),14616.0
+nyu_wsq,NYU (Washington Square),Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,27.0,Washington Heights (South),Manhattan,2624.0,39.0,2023.0,12.0,high,high,A,1BR (alone),24276.0
+hunter,CUNY Hunter College,Greenpoint,3710.0,44.0,Norwood,Bronx,1550.0,58.0,2160.0,14.0,medium,high,4 > 6,Studio (alone),25920.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Lenox Hill-Roosevelt Island,4609.0,51.0,Richmond Hill,Queens,1000.0,54.0,3609.0,3.0,medium,high,J > A,3BR+ (3 roommates),43308.0
+laguardia_cc,CUNY LaGuardia Community College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,54.0,University Heights (North)-Fordham,Bronx,980.0,68.0,1883.0,14.0,medium,high,4 > 7,3BR+ (3 roommates),22596.0
+lehman,CUNY Lehman College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,81.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,1811.0,-36.0,medium,high,walk,2BR (2 roommates),21732.0
+bmcc,CUNY Borough of Manhattan CC,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,41.0,Melrose,Bronx,1188.0,55.0,1765.0,14.0,medium,high,2,2BR (2 roommates),21180.0
+bmcc,CUNY Borough of Manhattan CC,Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,28.0,Bedford-Stuyvesant (West),Brooklyn,1399.0,41.0,1429.0,13.0,high,high,G > A,3BR+ (3 roommates),17148.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Greenpoint,2850.0,43.0,Brownsville,Brooklyn,1275.0,39.0,1575.0,-4.0,high,high,3 > 4,2BR (2 roommates),18900.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Yorkville,4200.0,44.0,Melrose,Bronx,1935.0,59.0,2265.0,15.0,medium,high,5 > 7,1BR (alone),27180.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Yorkville,3173.0,50.0,Bath Beach,Brooklyn,1750.0,54.0,1423.0,4.0,high,high,D > R,Studio (alone),17076.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Lenox Hill-Roosevelt Island,4203.0,47.0,Bedford Park,Bronx,1879.0,61.0,2324.0,14.0,high,high,D > A,1BR (alone),27888.0
+bmcc,CUNY Borough of Manhattan CC,East Midtown-Turtle Bay,3613.0,34.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,45.0,1418.0,11.0,high,high,A,Studio (alone),17016.0
+laguardia_cc,CUNY LaGuardia Community College,Hell's Kitchen,4850.0,36.0,Jamaica Hills-Briarwood,Queens,2195.0,49.0,2655.0,13.0,high,high,F,1BR (alone),31860.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Hell's Kitchen,3858.0,43.0,Bath Beach,Brooklyn,1750.0,54.0,2108.0,11.0,high,high,D > R,Studio (alone),25296.0
+laguardia_cc,CUNY LaGuardia Community College,Chelsea-Hudson Yards,6182.0,40.0,Richmond Hill,Queens,2100.0,55.0,4082.0,15.0,high,high,J > E,1BR (alone),48984.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Chelsea-Hudson Yards,4493.0,37.0,Brownsville,Brooklyn,1799.0,39.0,2694.0,2.0,medium,high,3 > 4,Studio (alone),32328.0
+bmcc,CUNY Borough of Manhattan CC,East Village,3363.0,39.0,Brownsville,Brooklyn,1799.0,53.0,1564.0,14.0,medium,high,3,Studio (alone),18768.0
+john_jay,CUNY John Jay College,East Midtown-Turtle Bay,4948.0,31.0,Concourse-Concourse Village,Bronx,2200.0,45.0,2748.0,14.0,high,high,B > A,1BR (alone),32976.0
+lehman,CUNY Lehman College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,81.0,Allerton,Bronx,1804.0,44.0,2399.0,-37.0,medium,medium,walk,1BR (alone),28788.0
+laguardia_cc,CUNY LaGuardia Community College,Bushwick (East),3200.0,64.0,Allerton,Bronx,1804.0,79.0,1396.0,15.0,medium,medium,2 > 5 > 7,1BR (alone),16752.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Bushwick (East),2768.0,44.0,Bath Beach,Brooklyn,1750.0,54.0,1018.0,10.0,high,high,D > R,Studio (alone),12216.0
+lehman,CUNY Lehman College,Bushwick (West),2768.0,83.0,Norwood,Bronx,1550.0,19.0,1218.0,-64.0,medium,high,walk,Studio (alone),14616.0
+john_jay,CUNY John Jay College,East Village,4018.0,45.0,Bedford Park,Bronx,1879.0,49.0,2139.0,4.0,high,high,D,1BR (alone),25668.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Greenpoint,4525.0,43.0,Brownsville,Brooklyn,1950.0,39.0,2575.0,-4.0,high,high,3 > 4,1BR (alone),30900.0
+columbia,Columbia University (Morningside),East Midtown-Turtle Bay,2999.0,40.0,University Heights (North)-Fordham,Bronx,980.0,43.0,2019.0,3.0,medium,high,1,3BR+ (3 roommates),24228.0
+new_school,The New School,Upper East Side-Lenox Hill-Roosevelt Island,4609.0,36.0,Inwood,Manhattan,1099.0,50.0,3510.0,14.0,high,high,1 > 2,3BR+ (3 roommates),42120.0
+pratt,Pratt Institute,Murray Hill-Kips Bay,2999.0,58.0,Richmond Hill,Queens,1000.0,66.0,1999.0,8.0,medium,high,J > A > G,3BR+ (3 roommates),23988.0
+columbia,Columbia University (Morningside),East Village,2625.0,50.0,University Heights (North)-Fordham,Bronx,980.0,43.0,1645.0,-7.0,medium,high,1,3BR+ (3 roommates),19740.0
+fit,Fashion Institute of Technology,Financial District-Battery Park City,3463.0,26.0,Washington Heights (South),Manhattan,1263.0,40.0,2200.0,14.0,high,high,A > E,3BR+ (3 roommates),26400.0
+fit,Fashion Institute of Technology,Flatbush (West)-Ditmas Park-Parkville,1221.0,51.0,University Heights (North)-Fordham,Bronx,980.0,57.0,241.0,6.0,medium,high,D > 1,3BR+ (3 roommates),2892.0
+ccny,CUNY City College,Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,53.0,University Heights (North)-Fordham,Bronx,980.0,40.0,1848.0,-13.0,medium,high,D,3BR+ (3 roommates),22176.0
+nyu_wsq,NYU (Washington Square),Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,27.0,Washington Heights (South),Manhattan,1263.0,39.0,1565.0,12.0,high,high,A,3BR+ (3 roommates),18780.0
+john_jay,CUNY John Jay College,Greenpoint,2500.0,53.0,University Heights (North)-Fordham,Bronx,980.0,52.0,1520.0,-1.0,medium,high,D,3BR+ (3 roommates),18240.0
+hunter,CUNY Hunter College,Greenpoint,2500.0,44.0,University Heights (North)-Fordham,Bronx,980.0,49.0,1520.0,5.0,medium,high,4 > 6,3BR+ (3 roommates),18240.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Carnegie Hill,3173.0,70.0,Bath Beach,Brooklyn,1750.0,68.0,1423.0,-2.0,high,high,D > Q,Studio (alone),17076.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Lenox Hill-Roosevelt Island,4203.0,39.0,Bedford Park,Bronx,1879.0,54.0,2324.0,15.0,high,high,D,1BR (alone),27888.0
+fordham_rh,Fordham University (Rose Hill),East Midtown-Turtle Bay,3613.0,59.0,Norwood,Bronx,1550.0,27.0,2063.0,-32.0,medium,high,D,Studio (alone),24756.0
+john_jay,CUNY John Jay College,Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,44.0,Highbridge,Bronx,1150.0,50.0,1922.0,6.0,medium,high,A,2BR (2 roommates),23064.0
+new_school,The New School,Murray Hill-Kips Bay,3613.0,29.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,39.0,1418.0,10.0,high,high,1 > 2,Studio (alone),17016.0
+fordham_rh,Fordham University (Rose Hill),East Village,3363.0,74.0,Norwood,Bronx,1550.0,27.0,1813.0,-47.0,medium,high,D,Studio (alone),21756.0
+pratt,Pratt Institute,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,31.0,Kensington,Brooklyn,2325.0,43.0,1059.0,12.0,high,high,G,Studio (alone),12708.0
+john_jay,CUNY John Jay College,East Midtown-Turtle Bay,3613.0,31.0,Concourse-Concourse Village,Bronx,2061.0,45.0,1552.0,14.0,high,high,B > A,Studio (alone),18624.0
+pratt,Pratt Institute,Bushwick (West),1775.0,49.0,Woodhaven,Queens,1400.0,60.0,375.0,11.0,medium,high,J > A > G,2BR (2 roommates),4500.0
+columbia,Columbia University (Morningside),Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,50.0,Norwood,Bronx,1550.0,46.0,2099.0,-4.0,medium,high,D,Studio (alone),25188.0
+ccny,CUNY City College,Greenpoint,3710.0,63.0,Norwood,Bronx,1550.0,39.0,2160.0,-24.0,medium,high,D,Studio (alone),25920.0
+john_jay,CUNY John Jay College,East Village,3363.0,45.0,Norwood,Bronx,1550.0,50.0,1813.0,5.0,medium,high,D,Studio (alone),21756.0
+columbia,Columbia University (Morningside),Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,50.0,Allerton,Bronx,1804.0,61.0,2843.0,11.0,medium,medium,2 > 1,1BR (alone),34116.0
+baruch,CUNY Baruch College,Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,37.0,Melrose,Bronx,1935.0,49.0,2712.0,12.0,medium,high,5 > 6,1BR (alone),32544.0
+baruch,CUNY Baruch College,Greenpoint,3710.0,49.0,Norwood,Bronx,1550.0,63.0,2160.0,14.0,medium,high,D,Studio (alone),25920.0
+hunter,CUNY Hunter College,Greenpoint,4525.0,44.0,Bedford Park,Bronx,1879.0,48.0,2646.0,4.0,high,high,4 > 6,1BR (alone),31752.0
+lehman,CUNY Lehman College,Upper East Side-Carnegie Hill,4688.0,48.0,University Heights (North)-Fordham,Bronx,980.0,22.0,3708.0,-26.0,medium,high,4,3BR+ (3 roommates),44496.0
+ccny,CUNY City College,East Midtown-Turtle Bay,4948.0,41.0,Bedford Park,Bronx,1879.0,37.0,3069.0,-4.0,high,high,D,1BR (alone),36828.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Lenox Hill-Roosevelt Island,4609.0,47.0,Woodhaven,Queens,1000.0,60.0,3609.0,13.0,high,high,J > A,3BR+ (3 roommates),43308.0
+ccny,CUNY City College,East Village,4018.0,55.0,Allerton,Bronx,1804.0,58.0,2214.0,3.0,medium,medium,2,1BR (alone),26568.0
+fordham_rh,Fordham University (Rose Hill),Financial District-Battery Park City,5305.0,70.0,Allerton,Bronx,1804.0,32.0,3501.0,-38.0,medium,medium,walk,1BR (alone),42012.0
+fordham_rh,Fordham University (Rose Hill),Flatbush (West)-Ditmas Park-Parkville,2866.0,91.0,Allerton,Bronx,1804.0,32.0,1062.0,-59.0,medium,medium,walk,1BR (alone),12744.0
+pratt,Pratt Institute,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,31.0,Kensington,Brooklyn,2500.0,43.0,1703.0,12.0,high,high,G,1BR (alone),20436.0
+brooklyn_college,CUNY Brooklyn College,Bushwick (West),3200.0,71.0,Brownsville,Brooklyn,1950.0,48.0,1250.0,-23.0,high,high,3 > 5,1BR (alone),15000.0
+new_school,The New School,Bushwick (West),3200.0,38.0,Melrose,Bronx,1935.0,46.0,1265.0,8.0,medium,high,2,1BR (alone),15180.0
+fit,Fashion Institute of Technology,Greenpoint,4525.0,46.0,Bedford Park,Bronx,1879.0,54.0,2646.0,8.0,high,high,D > 1,1BR (alone),31752.0
+laguardia_cc,CUNY LaGuardia Community College,Greenpoint,2850.0,33.0,North Corona,Queens,1425.0,35.0,1425.0,2.0,medium,high,7,2BR (2 roommates),17100.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Carnegie Hill,4200.0,39.0,Jamaica Hills-Briarwood,Queens,2195.0,49.0,2005.0,10.0,high,high,F,1BR (alone),24060.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Carnegie Hill,3173.0,47.0,Bath Beach,Brooklyn,1750.0,54.0,1423.0,7.0,high,high,D > R,Studio (alone),17076.0
+lehman,CUNY Lehman College,Upper East Side-Lenox Hill-Roosevelt Island,4203.0,60.0,Allerton,Bronx,1804.0,44.0,2399.0,-16.0,medium,medium,walk,1BR (alone),28788.0
+lehman,CUNY Lehman College,Murray Hill-Kips Bay,3613.0,57.0,Norwood,Bronx,1550.0,19.0,2063.0,-38.0,medium,high,walk,Studio (alone),24756.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Financial District-Battery Park City,5305.0,21.0,Kensington,Brooklyn,2500.0,35.0,2805.0,14.0,high,high,F,1BR (alone),33660.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Flatbush (West)-Ditmas Park-Parkville,2866.0,36.0,Brownsville,Brooklyn,1950.0,39.0,916.0,3.0,high,high,3 > 4,1BR (alone),10992.0
+bmcc,CUNY Borough of Manhattan CC,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,41.0,Melrose,Bronx,1935.0,55.0,2268.0,14.0,medium,high,2,1BR (alone),27216.0
+laguardia_cc,CUNY LaGuardia Community College,Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,52.0,Norwood,Bronx,1550.0,66.0,2099.0,14.0,medium,high,D > E,Studio (alone),25188.0
+ccny,CUNY City College,East Midtown-Turtle Bay,3250.0,41.0,University Heights (North)-Fordham,Bronx,1179.0,40.0,2071.0,-1.0,high,high,D,2BR (2 roommates),24852.0
+ccny,CUNY City College,East Village,2748.0,55.0,Williamsbridge-Olinville,Bronx,1142.0,64.0,1606.0,9.0,medium,high,2,2BR (2 roommates),19272.0
+john_jay,CUNY John Jay College,Financial District-Battery Park City,3463.0,38.0,University Heights (North)-Fordham,Bronx,980.0,52.0,2483.0,14.0,medium,high,D,3BR+ (3 roommates),29796.0
+hunter,CUNY Hunter College,Financial District-Battery Park City,3463.0,31.0,Elmhurst,Queens,1133.0,40.0,2330.0,9.0,high,high,M,3BR+ (3 roommates),27960.0
+john_jay,CUNY John Jay College,Flatbush (West)-Ditmas Park-Parkville,1221.0,60.0,University Heights (North)-Fordham,Bronx,980.0,52.0,241.0,-8.0,medium,high,D,3BR+ (3 roommates),2892.0
+hunter,CUNY Hunter College,Flatbush (West)-Ditmas Park-Parkville,1221.0,58.0,University Heights (North)-Fordham,Bronx,980.0,49.0,241.0,-9.0,medium,high,4 > 6,3BR+ (3 roommates),2892.0
+new_school,The New School,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,37.0,Inwood,Manhattan,1099.0,50.0,1764.0,13.0,high,high,1 > 2,3BR+ (3 roommates),21168.0
+pratt,Pratt Institute,Bushwick (West),1408.0,49.0,Woodhaven,Queens,1000.0,60.0,408.0,11.0,high,high,J > A > G,3BR+ (3 roommates),4896.0
+nyu_wsq,NYU (Washington Square),Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,27.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,40.0,1497.0,13.0,high,high,A,2BR (2 roommates),17964.0
+hunter,CUNY Hunter College,Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,42.0,Highbridge,Bronx,1150.0,43.0,1922.0,1.0,medium,high,4 > 6,2BR (2 roommates),23064.0
+fit,Fashion Institute of Technology,Greenpoint,2500.0,46.0,University Heights (North)-Fordham,Bronx,980.0,57.0,1520.0,11.0,medium,high,D > 1,3BR+ (3 roommates),18240.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Yorkville,3173.0,66.0,Bath Beach,Brooklyn,1750.0,68.0,1423.0,2.0,high,high,D > Q,Studio (alone),17076.0
+pratt,Pratt Institute,Upper East Side-Lenox Hill-Roosevelt Island,3192.0,66.0,Jamaica Hills-Briarwood,Queens,1842.0,74.0,1350.0,8.0,high,high,F > G,Studio (alone),16200.0
+pratt,Pratt Institute,Murray Hill-Kips Bay,3250.0,58.0,Richmond Hill,Queens,1275.0,66.0,1975.0,8.0,medium,high,J > A > G,2BR (2 roommates),23700.0
+brooklyn_college,CUNY Brooklyn College,Hell's Kitchen,3858.0,68.0,Bath Beach,Brooklyn,1750.0,68.0,2108.0,0.0,high,high,D > Q,Studio (alone),25296.0
+ccny,CUNY City College,Financial District-Battery Park City,4140.0,48.0,Norwood,Bronx,1550.0,39.0,2590.0,-9.0,medium,high,D,Studio (alone),31080.0
+brooklyn_college,CUNY Brooklyn College,Chelsea-Hudson Yards,4493.0,62.0,Bath Beach,Brooklyn,1750.0,68.0,2743.0,6.0,high,high,D > Q,Studio (alone),32916.0
+ccny,CUNY City College,Flatbush (West)-Ditmas Park-Parkville,2604.0,72.0,Norwood,Bronx,1550.0,39.0,1054.0,-33.0,medium,high,D,Studio (alone),12648.0
+baruch,CUNY Baruch College,Financial District-Battery Park City,4140.0,26.0,Chinatown-Two Bridges,Manhattan,2580.0,32.0,1560.0,6.0,medium,high,F > 6,Studio (alone),18720.0
+hunter,CUNY Hunter College,Financial District-Battery Park City,5305.0,31.0,Melrose,Bronx,1935.0,41.0,3370.0,10.0,medium,high,5 > 6,1BR (alone),40440.0
+baruch,CUNY Baruch College,Flatbush (West)-Ditmas Park-Parkville,2604.0,52.0,Norwood,Bronx,1550.0,63.0,1054.0,11.0,medium,high,D,Studio (alone),12648.0
+hunter,CUNY Hunter College,Flatbush (West)-Ditmas Park-Parkville,2866.0,58.0,Allerton,Bronx,1804.0,61.0,1062.0,3.0,medium,medium,2 > 5 > 6,1BR (alone),12744.0
+nyu_wsq,NYU (Washington Square),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,35.0,Concourse-Concourse Village,Bronx,2200.0,48.0,2003.0,13.0,high,high,B > A,1BR (alone),24036.0
+brooklyn_college,CUNY Brooklyn College,Bushwick (East),2768.0,77.0,Norwood,Bronx,1550.0,91.0,1218.0,14.0,medium,high,D > B,Studio (alone),14616.0
+new_school,The New School,Bushwick (West),2768.0,38.0,Highbridge,Bronx,1795.0,52.0,973.0,14.0,medium,high,4,Studio (alone),11676.0
+fit,Fashion Institute of Technology,Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,35.0,Melrose,Bronx,1188.0,46.0,1884.0,11.0,medium,high,2 > 1,2BR (2 roommates),22608.0
+lehman,CUNY Lehman College,Upper East Side-Yorkville,4688.0,49.0,University Heights (North)-Fordham,Bronx,980.0,22.0,3708.0,-27.0,medium,high,4,3BR+ (3 roommates),44496.0
+pratt,Pratt Institute,Upper East Side-Lenox Hill-Roosevelt Island,4203.0,66.0,Melrose,Bronx,1935.0,78.0,2268.0,12.0,medium,high,5 > L > G,1BR (alone),27216.0
+brooklyn_college,CUNY Brooklyn College,Murray Hill-Kips Bay,4948.0,67.0,Brownsville,Brooklyn,1950.0,48.0,2998.0,-19.0,high,high,3 > 5,1BR (alone),35976.0
+new_school,The New School,Murray Hill-Kips Bay,4948.0,29.0,Washington Heights (South),Manhattan,2624.0,40.0,2324.0,11.0,high,high,A,1BR (alone),27888.0
+lehman,CUNY Lehman College,Hell's Kitchen,2441.0,60.0,University Heights (North)-Fordham,Bronx,980.0,22.0,1461.0,-38.0,medium,high,4,3BR+ (3 roommates),17532.0
+lehman,CUNY Lehman College,Chelsea-Hudson Yards,3546.0,63.0,University Heights (North)-Fordham,Bronx,980.0,22.0,2566.0,-41.0,medium,high,4,3BR+ (3 roommates),30792.0
+fit,Fashion Institute of Technology,Financial District-Battery Park City,5305.0,26.0,Washington Heights (South),Manhattan,2624.0,40.0,2681.0,14.0,high,high,A > E,1BR (alone),32172.0
+laguardia_cc,CUNY LaGuardia Community College,Financial District-Battery Park City,3804.0,43.0,Richmond Hill,Queens,1275.0,55.0,2529.0,12.0,medium,high,J > E,2BR (2 roommates),30348.0
+fit,Fashion Institute of Technology,Flatbush (West)-Ditmas Park-Parkville,2866.0,51.0,Allerton,Bronx,1804.0,65.0,1062.0,14.0,medium,medium,2 > 1,1BR (alone),12744.0
+laguardia_cc,CUNY LaGuardia Community College,Flatbush (West)-Ditmas Park-Parkville,1640.0,68.0,Highbridge,Bronx,1150.0,62.0,490.0,-6.0,medium,high,4 > 7,2BR (2 roommates),5880.0
+bmcc,CUNY Borough of Manhattan CC,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,41.0,Brownsville,Brooklyn,1092.0,53.0,1771.0,12.0,high,high,3,3BR+ (3 roommates),21252.0
+lehman,CUNY Lehman College,Bushwick (East),1408.0,90.0,University Heights (North)-Fordham,Bronx,980.0,22.0,428.0,-68.0,medium,high,4,3BR+ (3 roommates),5136.0
+laguardia_cc,CUNY LaGuardia Community College,Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,52.0,Richmond Hill,Queens,1000.0,55.0,1828.0,3.0,medium,high,J > E,3BR+ (3 roommates),21936.0
+lehman,CUNY Lehman College,Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,70.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,1930.0,-25.0,medium,high,walk,2BR (2 roommates),23160.0
+bmcc,CUNY Borough of Manhattan CC,Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,28.0,Bedford-Stuyvesant (West),Brooklyn,1750.0,41.0,1322.0,13.0,high,high,G > A,2BR (2 roommates),15864.0
+fordham_rh,Fordham University (Rose Hill),Greenpoint,4525.0,81.0,Allerton,Bronx,1804.0,32.0,2721.0,-49.0,medium,medium,walk,1BR (alone),32652.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Yorkville,3173.0,45.0,Highbridge,Bronx,1795.0,59.0,1378.0,14.0,medium,high,A,Studio (alone),16536.0
+john_jay,CUNY John Jay College,Bushwick (East),3200.0,67.0,Allerton,Bronx,1804.0,68.0,1396.0,1.0,medium,medium,2,1BR (alone),16752.0
+laguardia_cc,CUNY LaGuardia Community College,East Midtown-Turtle Bay,4948.0,24.0,Flushing-Willets Point,Queens,2397.0,34.0,2551.0,10.0,high,high,7,1BR (alone),30612.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),East Midtown-Turtle Bay,3613.0,37.0,Brownsville,Brooklyn,1799.0,39.0,1814.0,2.0,medium,high,3 > 4,Studio (alone),21768.0
+bmcc,CUNY Borough of Manhattan CC,Hell's Kitchen,3858.0,36.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,45.0,1663.0,9.0,high,high,A,Studio (alone),19956.0
+bmcc,CUNY Borough of Manhattan CC,Chelsea-Hudson Yards,4493.0,29.0,Harlem (South),Manhattan,2550.0,42.0,1943.0,13.0,high,high,2,Studio (alone),23316.0
+john_jay,CUNY John Jay College,Upper East Side-Yorkville,4200.0,37.0,Bedford Park,Bronx,1879.0,49.0,2321.0,12.0,high,high,D,1BR (alone),27852.0
+laguardia_cc,CUNY LaGuardia Community College,East Village,4018.0,50.0,Bedford Park,Bronx,1879.0,65.0,2139.0,15.0,high,high,D > E,1BR (alone),25668.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),East Village,3363.0,30.0,Brownsville,Brooklyn,1799.0,39.0,1564.0,9.0,medium,high,3 > 4,Studio (alone),18768.0
+laguardia_cc,CUNY LaGuardia Community College,Financial District-Battery Park City,4140.0,43.0,Jamaica Hills-Briarwood,Queens,1842.0,49.0,2298.0,6.0,high,high,F,Studio (alone),27576.0
+laguardia_cc,CUNY LaGuardia Community College,Flatbush (West)-Ditmas Park-Parkville,2604.0,68.0,Norwood,Bronx,1550.0,66.0,1054.0,-2.0,medium,high,D > E,Studio (alone),12648.0
+john_jay,CUNY John Jay College,Hell's Kitchen,4850.0,13.0,Upper West Side-Lincoln Square,Manhattan,4756.0,10.0,94.0,-3.0,high,high,walk,1BR (alone),1128.0
+bmcc,CUNY Borough of Manhattan CC,Bushwick (East),2768.0,55.0,Norwood,Bronx,1550.0,63.0,1218.0,8.0,medium,high,D > A,Studio (alone),14616.0
+john_jay,CUNY John Jay College,Chelsea-Hudson Yards,6182.0,34.0,Longwood,Bronx,1988.0,49.0,4194.0,15.0,medium,medium,2,1BR (alone),50328.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,2.0,Brooklyn Heights,Brooklyn,4550.0,11.0,97.0,9.0,high,high,walk,1BR (alone),1164.0
+columbia,Columbia University (Morningside),Upper East Side-Yorkville,4688.0,44.0,University Heights (North)-Fordham,Bronx,980.0,43.0,3708.0,-1.0,medium,high,1,3BR+ (3 roommates),44496.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Lenox Hill-Roosevelt Island,2911.0,68.0,Brownsville,Brooklyn,1275.0,48.0,1636.0,-20.0,high,high,3 > 5,2BR (2 roommates),19632.0
+columbia,Columbia University (Morningside),Murray Hill-Kips Bay,3250.0,48.0,University Heights (North)-Fordham,Bronx,1179.0,43.0,2071.0,-5.0,high,high,1,2BR (2 roommates),24852.0
+columbia,Columbia University (Morningside),Hell's Kitchen,2441.0,34.0,University Heights (North)-Fordham,Bronx,980.0,43.0,1461.0,9.0,medium,high,1,3BR+ (3 roommates),17532.0
+baruch,CUNY Baruch College,Murray Hill-Kips Bay,2999.0,13.0,Stuyvesant Town-Peter Cooper Village,Manhattan,2454.0,18.0,545.0,5.0,high,high,walk,3BR+ (3 roommates),6540.0
+brooklyn_college,CUNY Brooklyn College,Murray Hill-Kips Bay,2999.0,67.0,Gravesend (West),Brooklyn,1067.0,57.0,1932.0,-10.0,high,high,D > Q,3BR+ (3 roommates),23184.0
+fordham_rh,Fordham University (Rose Hill),Murray Hill-Kips Bay,3250.0,68.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,2108.0,-17.0,medium,high,walk,2BR (2 roommates),25296.0
+columbia,Columbia University (Morningside),Chelsea-Hudson Yards,3546.0,38.0,University Heights (North)-Fordham,Bronx,980.0,43.0,2566.0,5.0,medium,high,1,3BR+ (3 roommates),30792.0
+nyu_wsq,NYU (Washington Square),Financial District-Battery Park City,3804.0,22.0,Chinatown-Two Bridges,Manhattan,2200.0,22.0,1604.0,0.0,high,high,F,2BR (2 roommates),19248.0
+hunter,CUNY Hunter College,Financial District-Battery Park City,3804.0,31.0,Highbridge,Bronx,1150.0,43.0,2654.0,12.0,medium,high,4 > 6,2BR (2 roommates),31848.0
+nyu_wsq,NYU (Washington Square),Flatbush (West)-Ditmas Park-Parkville,1640.0,43.0,Highbridge,Bronx,1150.0,54.0,490.0,11.0,medium,high,A,2BR (2 roommates),5880.0
+hunter,CUNY Hunter College,Flatbush (West)-Ditmas Park-Parkville,1640.0,58.0,Williamsbridge-Olinville,Bronx,1142.0,67.0,498.0,9.0,medium,high,2 > 5 > 6,2BR (2 roommates),5976.0
+columbia,Columbia University (Morningside),Bushwick (East),1408.0,72.0,University Heights (North)-Fordham,Bronx,980.0,43.0,428.0,-29.0,medium,high,1,3BR+ (3 roommates),5136.0
+baruch,CUNY Baruch College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,44.0,Highbridge,Bronx,1150.0,52.0,1803.0,8.0,medium,high,4 > 6,2BR (2 roommates),21636.0
+ccny,CUNY City College,Greenpoint,2500.0,63.0,University Heights (North)-Fordham,Bronx,980.0,40.0,1520.0,-23.0,medium,high,D,3BR+ (3 roommates),18240.0
+fordham_rh,Fordham University (Rose Hill),Bushwick (West),1408.0,86.0,University Heights (North)-Fordham,Bronx,980.0,24.0,428.0,-62.0,medium,high,walk,3BR+ (3 roommates),5136.0
+john_jay,CUNY John Jay College,Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,44.0,University Heights (North)-Fordham,Bronx,980.0,52.0,1848.0,8.0,medium,high,D,3BR+ (3 roommates),22176.0
+hunter,CUNY Hunter College,Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,42.0,University Heights (North)-Fordham,Bronx,980.0,49.0,1848.0,7.0,medium,high,4 > 6,3BR+ (3 roommates),22176.0
+nyu_wsq,NYU (Washington Square),Greenpoint,2500.0,48.0,University Heights (North)-Fordham,Bronx,980.0,56.0,1520.0,8.0,medium,high,D,3BR+ (3 roommates),18240.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Yorkville,3173.0,60.0,Norwood,Bronx,1550.0,27.0,1623.0,-33.0,medium,high,D,Studio (alone),19476.0
+hunter,CUNY Hunter College,Upper East Side-Lenox Hill-Roosevelt Island,3192.0,15.0,East Harlem (South),Manhattan,2595.0,20.0,597.0,5.0,high,high,6,Studio (alone),7164.0
+john_jay,CUNY John Jay College,Bushwick (East),2768.0,67.0,Norwood,Bronx,1550.0,50.0,1218.0,-17.0,medium,high,D,Studio (alone),14616.0
+nyu_wsq,NYU (Washington Square),Murray Hill-Kips Bay,3613.0,32.0,Forest Hills,Queens,2187.0,45.0,1426.0,13.0,high,high,F,Studio (alone),17112.0
+john_jay,CUNY John Jay College,Greenpoint,2850.0,53.0,Highbridge,Bronx,1150.0,50.0,1700.0,-3.0,medium,high,A,2BR (2 roommates),20400.0
+fordham_rh,Fordham University (Rose Hill),Hell's Kitchen,3858.0,62.0,Norwood,Bronx,1550.0,27.0,2308.0,-35.0,medium,high,D,Studio (alone),27696.0
+fordham_rh,Fordham University (Rose Hill),Chelsea-Hudson Yards,4493.0,65.0,Norwood,Bronx,1550.0,27.0,2943.0,-38.0,medium,high,D,Studio (alone),35316.0
+fit,Fashion Institute of Technology,Financial District-Battery Park City,3804.0,26.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,36.0,2229.0,10.0,high,high,1,2BR (2 roommates),26748.0
+fit,Fashion Institute of Technology,Flatbush (West)-Ditmas Park-Parkville,1640.0,51.0,Highbridge,Bronx,1150.0,55.0,490.0,4.0,medium,high,A > E,2BR (2 roommates),5880.0
+new_school,The New School,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,37.0,Highbridge,Bronx,1150.0,52.0,1803.0,15.0,medium,high,4,2BR (2 roommates),21636.0
+ccny,CUNY City College,Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,53.0,Norwood,Bronx,1550.0,39.0,2099.0,-14.0,medium,high,D,Studio (alone),25188.0
+fordham_rh,Fordham University (Rose Hill),Bushwick (East),2768.0,95.0,Norwood,Bronx,1550.0,27.0,1218.0,-68.0,medium,high,D,Studio (alone),14616.0
+john_jay,CUNY John Jay College,Chelsea-Hudson Yards,4493.0,34.0,Concourse-Concourse Village,Bronx,2061.0,45.0,2432.0,11.0,high,high,B > A,Studio (alone),29184.0
+fit,Fashion Institute of Technology,Bushwick (West),2768.0,48.0,Norwood,Bronx,1550.0,55.0,1218.0,7.0,medium,high,D > 1,Studio (alone),14616.0
+columbia,Columbia University (Morningside),Greenpoint,3710.0,62.0,Norwood,Bronx,1550.0,46.0,2160.0,-16.0,medium,high,D,Studio (alone),25920.0
+baruch,CUNY Baruch College,Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,37.0,Concourse-Concourse Village,Bronx,2061.0,47.0,1588.0,10.0,high,high,4 > 6,Studio (alone),19056.0
+columbia,Columbia University (Morningside),Greenpoint,4525.0,62.0,Allerton,Bronx,1804.0,61.0,2721.0,-1.0,medium,medium,2 > 1,1BR (alone),32652.0
+hunter,CUNY Hunter College,Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,42.0,Bedford Park,Bronx,1879.0,48.0,2768.0,6.0,high,high,4 > 6,1BR (alone),33216.0
+baruch,CUNY Baruch College,Greenpoint,4525.0,49.0,Bedford Park,Bronx,1879.0,57.0,2646.0,8.0,high,high,4 > 6,1BR (alone),31752.0
+ccny,CUNY City College,Upper East Side-Yorkville,4200.0,52.0,Allerton,Bronx,1804.0,58.0,2396.0,6.0,medium,medium,2,1BR (alone),28752.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Lenox Hill-Roosevelt Island,2911.0,51.0,Highbridge,Bronx,1150.0,65.0,1761.0,14.0,medium,high,A,2BR (2 roommates),21132.0
+ccny,CUNY City College,Hell's Kitchen,4850.0,42.0,Bedford Park,Bronx,1879.0,37.0,2971.0,-5.0,high,high,D,1BR (alone),35652.0
+ccny,CUNY City College,Chelsea-Hudson Yards,6182.0,43.0,Bedford Park,Bronx,1879.0,37.0,4303.0,-6.0,high,high,D,1BR (alone),51636.0
+john_jay,CUNY John Jay College,Upper East Side-Yorkville,3173.0,37.0,Norwood,Bronx,1550.0,50.0,1623.0,13.0,medium,high,D,Studio (alone),19476.0
+laguardia_cc,CUNY LaGuardia Community College,Financial District-Battery Park City,3463.0,43.0,Richmond Hill,Queens,1000.0,55.0,2463.0,12.0,medium,high,J > E,3BR+ (3 roommates),29556.0
+lehman,CUNY Lehman College,Financial District-Battery Park City,3804.0,59.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,2662.0,-14.0,medium,high,walk,2BR (2 roommates),31944.0
+bmcc,CUNY Borough of Manhattan CC,Financial District-Battery Park City,3804.0,20.0,Chinatown-Two Bridges,Manhattan,2200.0,27.0,1604.0,7.0,high,high,walk,2BR (2 roommates),19248.0
+ccny,CUNY City College,Bushwick (East),3200.0,77.0,Allerton,Bronx,1804.0,58.0,1396.0,-19.0,medium,medium,2,1BR (alone),16752.0
+laguardia_cc,CUNY LaGuardia Community College,Flatbush (West)-Ditmas Park-Parkville,1221.0,68.0,University Heights (North)-Fordham,Bronx,980.0,68.0,241.0,0.0,medium,high,4 > 7,3BR+ (3 roommates),2892.0
+lehman,CUNY Lehman College,Flatbush (West)-Ditmas Park-Parkville,1640.0,88.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,498.0,-43.0,medium,high,walk,2BR (2 roommates),5976.0
+bmcc,CUNY Borough of Manhattan CC,Flatbush (West)-Ditmas Park-Parkville,1640.0,53.0,Highbridge,Bronx,1150.0,59.0,490.0,6.0,medium,high,A,2BR (2 roommates),5880.0
+john_jay,CUNY John Jay College,Hell's Kitchen,3858.0,13.0,Upper West Side-Lincoln Square,Manhattan,3359.0,10.0,499.0,-3.0,high,high,walk,Studio (alone),5988.0
+fit,Fashion Institute of Technology,Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,35.0,Melrose,Bronx,1935.0,46.0,2712.0,11.0,medium,high,2 > 1,1BR (alone),32544.0
+laguardia_cc,CUNY LaGuardia Community College,Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,52.0,Highbridge,Bronx,1150.0,62.0,1922.0,10.0,medium,high,4 > 7,2BR (2 roommates),23064.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Greenpoint,2500.0,43.0,Richmond Hill,Queens,1000.0,54.0,1500.0,11.0,medium,high,J > A,3BR+ (3 roommates),18000.0
+lehman,CUNY Lehman College,Upper East Side-Yorkville,4200.0,49.0,Allerton,Bronx,1804.0,44.0,2396.0,-5.0,medium,medium,walk,1BR (alone),28752.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Carnegie Hill,4200.0,43.0,Melrose,Bronx,1935.0,55.0,2265.0,12.0,medium,high,2,1BR (alone),27180.0
+lehman,CUNY Lehman College,Hell's Kitchen,4850.0,60.0,Allerton,Bronx,1804.0,44.0,3046.0,-16.0,medium,medium,walk,1BR (alone),36552.0
+lehman,CUNY Lehman College,Chelsea-Hudson Yards,6182.0,63.0,Allerton,Bronx,1804.0,44.0,4378.0,-19.0,medium,medium,walk,1BR (alone),52536.0
+laguardia_cc,CUNY LaGuardia Community College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,54.0,Bedford Park,Bronx,1879.0,65.0,2324.0,11.0,high,high,D > E,1BR (alone),27888.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,24.0,Mapleton-Midwood (West),Brooklyn,2014.0,38.0,1370.0,14.0,high,high,F,Studio (alone),16440.0
+lehman,CUNY Lehman College,Bushwick (East),3200.0,90.0,Allerton,Bronx,1804.0,44.0,1396.0,-46.0,medium,medium,walk,1BR (alone),16752.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Bushwick (West),3200.0,48.0,Brownsville,Brooklyn,1950.0,39.0,1250.0,-9.0,high,high,3 > 4,1BR (alone),15000.0
+lehman,CUNY Lehman College,Greenpoint,3710.0,78.0,Norwood,Bronx,1550.0,19.0,2160.0,-59.0,medium,high,walk,Studio (alone),25920.0
+new_school,The New School,Upper East Side-Carnegie Hill,4688.0,32.0,Longwood,Bronx,1198.0,46.0,3490.0,14.0,medium,medium,2,3BR+ (3 roommates),41880.0
+baruch,CUNY Baruch College,East Midtown-Turtle Bay,3250.0,24.0,East Harlem (South),Manhattan,1636.0,33.0,1614.0,9.0,high,high,6,2BR (2 roommates),19368.0
+fit,Fashion Institute of Technology,Murray Hill-Kips Bay,2999.0,26.0,Washington Heights (South),Manhattan,1263.0,40.0,1736.0,14.0,high,high,A > E,3BR+ (3 roommates),20832.0
+baruch,CUNY Baruch College,East Village,2748.0,26.0,East Harlem (South),Manhattan,1636.0,33.0,1112.0,7.0,high,high,6,2BR (2 roommates),13344.0
+pratt,Pratt Institute,Financial District-Battery Park City,3463.0,38.0,East New York (North),Brooklyn,1199.0,42.0,2264.0,4.0,high,high,C,3BR+ (3 roommates),27168.0
+john_jay,CUNY John Jay College,Bushwick (West),1408.0,59.0,University Heights (North)-Fordham,Bronx,980.0,52.0,428.0,-7.0,medium,high,D,3BR+ (3 roommates),5136.0
+hunter,CUNY Hunter College,Bushwick (West),1408.0,54.0,University Heights (North)-Fordham,Bronx,980.0,49.0,428.0,-5.0,medium,high,4 > 6,3BR+ (3 roommates),5136.0
+fordham_rh,Fordham University (Rose Hill),Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,75.0,University Heights (North)-Fordham,Bronx,980.0,24.0,1848.0,-51.0,medium,high,walk,3BR+ (3 roommates),22176.0
+pratt,Pratt Institute,Upper East Side-Yorkville,3173.0,64.0,Jamaica Hills-Briarwood,Queens,1842.0,74.0,1331.0,10.0,high,high,F > G,Studio (alone),15972.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Carnegie Hill,4200.0,35.0,Concourse-Concourse Village,Bronx,2200.0,48.0,2000.0,13.0,high,high,B > A,1BR (alone),24000.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Lenox Hill-Roosevelt Island,3192.0,68.0,Bath Beach,Brooklyn,1750.0,68.0,1442.0,0.0,high,high,D > Q,Studio (alone),17304.0
+new_school,The New School,East Midtown-Turtle Bay,3250.0,25.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,39.0,1675.0,14.0,high,high,1 > 2,2BR (2 roommates),20100.0
+pratt,Pratt Institute,Hell's Kitchen,3858.0,57.0,Corona,Queens,1981.0,71.0,1877.0,14.0,medium,high,7 > G,Studio (alone),22524.0
+pratt,Pratt Institute,Chelsea-Hudson Yards,4493.0,53.0,Flushing-Willets Point,Queens,2000.0,65.0,2493.0,12.0,high,high,7 > G,Studio (alone),29916.0
+new_school,The New School,East Village,2748.0,24.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,39.0,1173.0,15.0,high,high,1 > 2,2BR (2 roommates),14076.0
+new_school,The New School,Financial District-Battery Park City,4140.0,23.0,Harlem (South),Manhattan,2550.0,33.0,1590.0,10.0,high,high,2,Studio (alone),19080.0
+new_school,The New School,Flatbush (West)-Ditmas Park-Parkville,2604.0,45.0,Norwood,Bronx,1550.0,55.0,1054.0,10.0,medium,high,D,Studio (alone),12648.0
+ccny,CUNY City College,Bushwick (West),2768.0,68.0,Norwood,Bronx,1550.0,39.0,1218.0,-29.0,medium,high,D,Studio (alone),14616.0
+pratt,Pratt Institute,Bushwick (East),2768.0,56.0,Flushing-Willets Point,Queens,2000.0,65.0,768.0,9.0,high,high,7 > G,Studio (alone),9216.0
+baruch,CUNY Baruch College,Bushwick (West),2768.0,46.0,University Heights (North)-Fordham,Bronx,1656.0,58.0,1112.0,12.0,high,high,4 > 6,Studio (alone),13344.0
+hunter,CUNY Hunter College,Bushwick (West),3200.0,54.0,Allerton,Bronx,1804.0,61.0,1396.0,7.0,medium,medium,2 > 5 > 6,1BR (alone),16752.0
+pratt,Pratt Institute,Greenpoint,2850.0,35.0,Kensington,Brooklyn,1500.0,43.0,1350.0,8.0,high,high,G,2BR (2 roommates),16200.0
+fit,Fashion Institute of Technology,Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,35.0,Elmhurst,Queens,2050.0,47.0,1599.0,12.0,high,high,M > F,Studio (alone),19188.0
+pratt,Pratt Institute,Upper East Side-Yorkville,4200.0,64.0,Melrose,Bronx,1935.0,78.0,2265.0,14.0,medium,high,5 > L > G,1BR (alone),27180.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Carnegie Hill,4688.0,43.0,Brownsville,Brooklyn,1092.0,53.0,3596.0,10.0,high,high,3,3BR+ (3 roommates),43152.0
+lehman,CUNY Lehman College,Upper East Side-Lenox Hill-Roosevelt Island,4609.0,60.0,University Heights (North)-Fordham,Bronx,980.0,22.0,3629.0,-38.0,medium,high,4,3BR+ (3 roommates),43548.0
+fordham_rh,Fordham University (Rose Hill),Murray Hill-Kips Bay,4948.0,68.0,Allerton,Bronx,1804.0,32.0,3144.0,-36.0,medium,medium,walk,1BR (alone),37728.0
+pratt,Pratt Institute,Hell's Kitchen,4850.0,57.0,Woodhaven,Queens,2038.0,60.0,2812.0,3.0,high,high,J > A > G,1BR (alone),33744.0
+pratt,Pratt Institute,Chelsea-Hudson Yards,6182.0,53.0,Woodhaven,Queens,2038.0,60.0,4144.0,7.0,high,high,J > A > G,1BR (alone),49728.0
+pratt,Pratt Institute,Bushwick (East),3200.0,56.0,Woodhaven,Queens,2038.0,60.0,1162.0,4.0,high,high,J > A > G,1BR (alone),13944.0
+fit,Fashion Institute of Technology,Bushwick (West),3200.0,48.0,Bedford Park,Bronx,1879.0,54.0,1321.0,6.0,high,high,D > 1,1BR (alone),15852.0
+laguardia_cc,CUNY LaGuardia Community College,Bushwick (West),1775.0,57.0,Highbridge,Bronx,1150.0,62.0,625.0,5.0,medium,high,4 > 7,2BR (2 roommates),7500.0
+brooklyn_college,CUNY Brooklyn College,Greenpoint,4525.0,81.0,Bedford Park,Bronx,1879.0,90.0,2646.0,9.0,high,high,D > B,1BR (alone),31752.0
+new_school,The New School,Greenpoint,4525.0,41.0,Bedford Park,Bronx,1879.0,54.0,2646.0,13.0,high,high,D,1BR (alone),31752.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Lenox Hill-Roosevelt Island,3192.0,47.0,Bedford Park,Bronx,1750.0,61.0,1442.0,14.0,medium,high,D > A,Studio (alone),17304.0
+bmcc,CUNY Borough of Manhattan CC,East Midtown-Turtle Bay,4948.0,34.0,Washington Heights (South),Manhattan,2624.0,44.0,2324.0,10.0,high,high,A,1BR (alone),27888.0
+bmcc,CUNY Borough of Manhattan CC,East Village,4018.0,39.0,Brownsville,Brooklyn,1950.0,53.0,2068.0,14.0,high,high,3,1BR (alone),24816.0
+john_jay,CUNY John Jay College,Upper East Side-Lenox Hill-Roosevelt Island,4203.0,39.0,Bedford Park,Bronx,1879.0,49.0,2324.0,10.0,high,high,D,1BR (alone),27888.0
+laguardia_cc,CUNY LaGuardia Community College,Bushwick (West),2768.0,57.0,Norwood,Bronx,1550.0,66.0,1218.0,9.0,medium,high,D > E,Studio (alone),14616.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Yorkville,2913.0,66.0,Brownsville,Brooklyn,1275.0,48.0,1638.0,-18.0,high,high,3 > 5,2BR (2 roommates),19656.0
+columbia,Columbia University (Morningside),Upper East Side-Lenox Hill-Roosevelt Island,4609.0,46.0,University Heights (North)-Fordham,Bronx,980.0,43.0,3629.0,-3.0,medium,high,1,3BR+ (3 roommates),43548.0
+baruch,CUNY Baruch College,Upper East Side-Carnegie Hill,2913.0,27.0,East Harlem (South),Manhattan,1636.0,33.0,1277.0,6.0,high,high,6,2BR (2 roommates),15324.0
+new_school,The New School,East Midtown-Turtle Bay,2999.0,25.0,Washington Heights (South),Manhattan,1263.0,40.0,1736.0,15.0,high,high,A,3BR+ (3 roommates),20832.0
+nyu_wsq,NYU (Washington Square),Murray Hill-Kips Bay,2999.0,32.0,East New York (North),Brooklyn,1199.0,46.0,1800.0,14.0,high,high,C > A,3BR+ (3 roommates),21600.0
+brooklyn_college,CUNY Brooklyn College,Hell's Kitchen,3298.0,68.0,Brownsville,Brooklyn,1275.0,48.0,2023.0,-20.0,high,high,3 > 5,2BR (2 roommates),24276.0
+brooklyn_college,CUNY Brooklyn College,Chelsea-Hudson Yards,4062.0,62.0,Brownsville,Brooklyn,1275.0,48.0,2787.0,-14.0,high,high,3 > 5,2BR (2 roommates),33444.0
+new_school,The New School,East Village,2625.0,24.0,Hamilton Heights-Sugar Hill,Manhattan,1375.0,39.0,1250.0,15.0,high,high,1 > 2,3BR+ (3 roommates),15000.0
+fordham_rh,Fordham University (Rose Hill),Financial District-Battery Park City,3463.0,70.0,University Heights (North)-Fordham,Bronx,980.0,24.0,2483.0,-46.0,medium,high,walk,3BR+ (3 roommates),29796.0
+ccny,CUNY City College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,65.0,Williamsbridge-Olinville,Bronx,1142.0,64.0,1811.0,-1.0,medium,high,2,2BR (2 roommates),21732.0
+fordham_rh,Fordham University (Rose Hill),Flatbush (West)-Ditmas Park-Parkville,1221.0,91.0,University Heights (North)-Fordham,Bronx,980.0,24.0,241.0,-67.0,medium,high,walk,3BR+ (3 roommates),2892.0
+brooklyn_college,CUNY Brooklyn College,Bushwick (East),1775.0,77.0,Highbridge,Bronx,1150.0,90.0,625.0,13.0,medium,high,4 > Q,2BR (2 roommates),7500.0
+pratt,Pratt Institute,Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,30.0,East New York (North),Brooklyn,1199.0,42.0,1629.0,12.0,high,high,C,3BR+ (3 roommates),19548.0
+nyu_wsq,NYU (Washington Square),Bushwick (West),1775.0,38.0,Melrose,Bronx,1188.0,52.0,587.0,14.0,medium,high,5,2BR (2 roommates),7044.0
+hunter,CUNY Hunter College,Bushwick (West),1775.0,54.0,Williamsbridge-Olinville,Bronx,1142.0,67.0,633.0,13.0,medium,high,2 > 5 > 6,2BR (2 roommates),7596.0
+columbia,Columbia University (Morningside),Greenpoint,2850.0,62.0,Williamsbridge-Olinville,Bronx,1142.0,67.0,1708.0,5.0,medium,high,2 > 1,2BR (2 roommates),20496.0
+baruch,CUNY Baruch College,Greenpoint,2500.0,49.0,University Heights (North)-Fordham,Bronx,980.0,58.0,1520.0,9.0,medium,high,4 > 6,3BR+ (3 roommates),18240.0
+brooklyn_college,CUNY Brooklyn College,Greenpoint,2500.0,81.0,University Heights (North)-Fordham,Bronx,980.0,93.0,1520.0,12.0,medium,high,D > B,3BR+ (3 roommates),18240.0
+fordham_rh,Fordham University (Rose Hill),Greenpoint,2850.0,81.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,1708.0,-30.0,medium,high,walk,2BR (2 roommates),20496.0
+hunter,CUNY Hunter College,Upper East Side-Yorkville,3173.0,23.0,Concourse-Concourse Village,Bronx,2061.0,38.0,1112.0,15.0,high,high,4 > 6,Studio (alone),13344.0
+new_school,The New School,Upper East Side-Carnegie Hill,2913.0,32.0,Melrose,Bronx,1188.0,46.0,1725.0,14.0,medium,high,2,2BR (2 roommates),20700.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Lenox Hill-Roosevelt Island,3192.0,71.0,Norwood,Bronx,1550.0,27.0,1642.0,-44.0,medium,high,D,Studio (alone),19704.0
+columbia,Columbia University (Morningside),Murray Hill-Kips Bay,3613.0,48.0,Norwood,Bronx,1550.0,46.0,2063.0,-2.0,medium,high,D,Studio (alone),24756.0
+nyu_wsq,NYU (Washington Square),East Midtown-Turtle Bay,4948.0,26.0,Washington Heights (South),Manhattan,2624.0,39.0,2324.0,13.0,high,high,A,1BR (alone),27888.0
+columbia,Columbia University (Morningside),Murray Hill-Kips Bay,4948.0,48.0,Allerton,Bronx,1804.0,61.0,3144.0,13.0,medium,medium,2 > 1,1BR (alone),37728.0
+baruch,CUNY Baruch College,Murray Hill-Kips Bay,4948.0,13.0,East Village,Manhattan,4018.0,26.0,930.0,13.0,high,high,walk,1BR (alone),11160.0
+hunter,CUNY Hunter College,Hell's Kitchen,3858.0,34.0,Bedford Park,Bronx,1750.0,48.0,2108.0,14.0,medium,high,4 > 6,Studio (alone),25296.0
+hunter,CUNY Hunter College,Chelsea-Hudson Yards,4493.0,38.0,University Heights (North)-Fordham,Bronx,1656.0,49.0,2837.0,11.0,high,high,4 > 6,Studio (alone),34044.0
+nyu_wsq,NYU (Washington Square),East Village,4018.0,22.0,Chinatown-Two Bridges,Manhattan,3448.0,22.0,570.0,0.0,high,high,F,1BR (alone),6840.0
+fit,Fashion Institute of Technology,Financial District-Battery Park City,4140.0,26.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,36.0,1945.0,10.0,high,high,1,Studio (alone),23340.0
+fit,Fashion Institute of Technology,Flatbush (West)-Ditmas Park-Parkville,2604.0,51.0,Norwood,Bronx,1550.0,55.0,1054.0,4.0,medium,high,D > 1,Studio (alone),12648.0
+hunter,CUNY Hunter College,Bushwick (East),2768.0,61.0,Norwood,Bronx,1550.0,58.0,1218.0,-3.0,medium,high,4 > 6,Studio (alone),14616.0
+fit,Fashion Institute of Technology,Bushwick (West),1775.0,48.0,Highbridge,Bronx,1150.0,55.0,625.0,7.0,medium,high,A > E,2BR (2 roommates),7500.0
+new_school,The New School,Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,28.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,39.0,1454.0,11.0,high,high,1 > 2,Studio (alone),17448.0
+nyu_wsq,NYU (Washington Square),Greenpoint,3710.0,48.0,Norwood,Bronx,1550.0,55.0,2160.0,7.0,medium,high,D,Studio (alone),25920.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Yorkville,2913.0,50.0,Melrose,Bronx,1188.0,63.0,1725.0,13.0,medium,high,2,2BR (2 roommates),20700.0
+ccny,CUNY City College,Upper East Side-Lenox Hill-Roosevelt Island,4203.0,54.0,Allerton,Bronx,1804.0,58.0,2399.0,4.0,medium,medium,2,1BR (alone),28788.0
+bmcc,CUNY Borough of Manhattan CC,East Midtown-Turtle Bay,2999.0,34.0,East New York (North),Brooklyn,1199.0,46.0,1800.0,12.0,high,high,C > A,3BR+ (3 roommates),21600.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Murray Hill-Kips Bay,2999.0,45.0,Richmond Hill,Queens,1000.0,54.0,1999.0,9.0,medium,high,J > A,3BR+ (3 roommates),23988.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Hell's Kitchen,3298.0,43.0,Brownsville,Brooklyn,1275.0,39.0,2023.0,-4.0,high,high,3 > 4,2BR (2 roommates),24276.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Chelsea-Hudson Yards,4062.0,37.0,Brownsville,Brooklyn,1275.0,39.0,2787.0,2.0,high,high,3 > 4,2BR (2 roommates),33444.0
+bmcc,CUNY Borough of Manhattan CC,East Village,2625.0,39.0,Brownsville,Brooklyn,1092.0,53.0,1533.0,14.0,high,high,3,3BR+ (3 roommates),18396.0
+john_jay,CUNY John Jay College,Upper East Side-Lenox Hill-Roosevelt Island,3192.0,39.0,Norwood,Bronx,1550.0,50.0,1642.0,11.0,medium,high,D,Studio (alone),19704.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Bushwick (East),1775.0,44.0,Brownsville,Brooklyn,1275.0,39.0,500.0,-5.0,high,high,3 > 4,2BR (2 roommates),6000.0
+laguardia_cc,CUNY LaGuardia Community College,Bushwick (West),1408.0,57.0,University Heights (North)-Fordham,Bronx,980.0,68.0,428.0,11.0,medium,high,4 > 7,3BR+ (3 roommates),5136.0
+lehman,CUNY Lehman College,Bushwick (West),1775.0,83.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,633.0,-38.0,medium,high,walk,2BR (2 roommates),7596.0
+bmcc,CUNY Borough of Manhattan CC,Bushwick (West),1775.0,51.0,Highbridge,Bronx,1150.0,59.0,625.0,8.0,medium,high,A,2BR (2 roommates),7500.0
+john_jay,CUNY John Jay College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,55.0,Allerton,Bronx,1804.0,68.0,2399.0,13.0,medium,medium,2,1BR (alone),28788.0
+lehman,CUNY Lehman College,East Midtown-Turtle Bay,4948.0,53.0,Allerton,Bronx,1804.0,44.0,3144.0,-9.0,medium,medium,walk,1BR (alone),37728.0
+laguardia_cc,CUNY LaGuardia Community College,Murray Hill-Kips Bay,3613.0,36.0,Jamaica Hills-Briarwood,Queens,1842.0,49.0,1771.0,13.0,high,high,F,Studio (alone),21252.0
+lehman,CUNY Lehman College,East Village,4018.0,66.0,Allerton,Bronx,1804.0,44.0,2214.0,-22.0,medium,medium,walk,1BR (alone),26568.0
+bmcc,CUNY Borough of Manhattan CC,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,41.0,Brownsville,Brooklyn,1799.0,53.0,1585.0,12.0,medium,high,3,Studio (alone),19020.0
+lehman,CUNY Lehman College,Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,70.0,Norwood,Bronx,1550.0,19.0,2099.0,-51.0,medium,high,walk,Studio (alone),25188.0
+baruch,CUNY Baruch College,Upper East Side-Yorkville,2913.0,37.0,Melrose,Bronx,1188.0,49.0,1725.0,12.0,medium,high,5 > 6,2BR (2 roommates),20700.0
+ccny,CUNY City College,Upper East Side-Lenox Hill-Roosevelt Island,2911.0,54.0,Williamsbridge-Olinville,Bronx,1142.0,64.0,1769.0,10.0,medium,high,2,2BR (2 roommates),21228.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Carnegie Hill,2913.0,70.0,Brownsville,Brooklyn,1275.0,48.0,1638.0,-22.0,high,high,3 > 5,2BR (2 roommates),19656.0
+nyu_wsq,NYU (Washington Square),Murray Hill-Kips Bay,3250.0,32.0,Kensington,Brooklyn,1500.0,46.0,1750.0,14.0,high,high,F,2BR (2 roommates),21000.0
+hunter,CUNY Hunter College,Murray Hill-Kips Bay,3250.0,25.0,Concourse-Concourse Village,Bronx,1316.0,38.0,1934.0,13.0,high,high,4 > 6,2BR (2 roommates),23208.0
+baruch,CUNY Baruch College,Hell's Kitchen,3298.0,37.0,Melrose,Bronx,1188.0,49.0,2110.0,12.0,medium,high,5 > 6,2BR (2 roommates),25320.0
+baruch,CUNY Baruch College,Chelsea-Hudson Yards,4062.0,30.0,East Harlem (South),Manhattan,1636.0,33.0,2426.0,3.0,high,high,6,2BR (2 roommates),29112.0
+columbia,Columbia University (Morningside),Financial District-Battery Park City,3804.0,41.0,University Heights (North)-Fordham,Bronx,1179.0,43.0,2625.0,2.0,high,high,1,2BR (2 roommates),31500.0
+baruch,CUNY Baruch College,Financial District-Battery Park City,3463.0,26.0,East Harlem (South),Manhattan,1454.0,33.0,2009.0,7.0,high,high,6,3BR+ (3 roommates),24108.0
+brooklyn_college,CUNY Brooklyn College,Financial District-Battery Park City,3463.0,45.0,Gravesend (West),Brooklyn,1067.0,57.0,2396.0,12.0,high,high,D > Q,3BR+ (3 roommates),28752.0
+columbia,Columbia University (Morningside),Flatbush (West)-Ditmas Park-Parkville,1640.0,68.0,Williamsbridge-Olinville,Bronx,1142.0,67.0,498.0,-1.0,medium,high,2 > 1,2BR (2 roommates),5976.0
+fordham_rh,Fordham University (Rose Hill),Financial District-Battery Park City,3804.0,70.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,2662.0,-19.0,medium,high,walk,2BR (2 roommates),31944.0
+columbia,Columbia University (Morningside),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,64.0,University Heights (North)-Fordham,Bronx,980.0,43.0,1883.0,-21.0,medium,high,1,3BR+ (3 roommates),22596.0
+baruch,CUNY Baruch College,Flatbush (West)-Ditmas Park-Parkville,1221.0,52.0,University Heights (North)-Fordham,Bronx,980.0,58.0,241.0,6.0,medium,high,4 > 6,3BR+ (3 roommates),2892.0
+brooklyn_college,CUNY Brooklyn College,Flatbush (West)-Ditmas Park-Parkville,1221.0,19.0,Flatlands,Brooklyn,1074.0,34.0,147.0,15.0,medium,high,walk,3BR+ (3 roommates),1764.0
+fordham_rh,Fordham University (Rose Hill),Flatbush (West)-Ditmas Park-Parkville,1640.0,91.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,498.0,-40.0,medium,high,walk,2BR (2 roommates),5976.0
+ccny,CUNY City College,Bushwick (West),1408.0,68.0,University Heights (North)-Fordham,Bronx,980.0,40.0,428.0,-28.0,medium,high,D,3BR+ (3 roommates),5136.0
+baruch,CUNY Baruch College,Bushwick (East),1775.0,53.0,Highbridge,Bronx,1150.0,52.0,625.0,-1.0,medium,high,4 > 6,2BR (2 roommates),7500.0
+nyu_wsq,NYU (Washington Square),Bushwick (West),1408.0,38.0,Borough Park,Brooklyn,1083.0,51.0,325.0,13.0,high,high,D,3BR+ (3 roommates),3900.0
+fordham_rh,Fordham University (Rose Hill),Greenpoint,2500.0,81.0,University Heights (North)-Fordham,Bronx,980.0,24.0,1520.0,-57.0,medium,high,walk,3BR+ (3 roommates),18240.0
+new_school,The New School,Upper East Side-Yorkville,2913.0,34.0,Melrose,Bronx,1188.0,46.0,1725.0,12.0,medium,high,2,2BR (2 roommates),20700.0
+hunter,CUNY Hunter College,Upper East Side-Carnegie Hill,3173.0,12.0,East Harlem (South),Manhattan,2595.0,20.0,578.0,8.0,high,high,6,Studio (alone),6936.0
+john_jay,CUNY John Jay College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,55.0,Norwood,Bronx,1550.0,50.0,1834.0,-5.0,medium,high,D,Studio (alone),22008.0
+john_jay,CUNY John Jay College,Bushwick (West),1775.0,59.0,Highbridge,Bronx,1150.0,50.0,625.0,-9.0,medium,high,A,2BR (2 roommates),7500.0
+pratt,Pratt Institute,East Midtown-Turtle Bay,3613.0,46.0,Mapleton-Midwood (West),Brooklyn,2014.0,49.0,1599.0,3.0,high,high,F > G,Studio (alone),19188.0
+fit,Fashion Institute of Technology,Murray Hill-Kips Bay,3250.0,26.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,36.0,1675.0,10.0,high,high,1,2BR (2 roommates),20100.0
+new_school,The New School,Hell's Kitchen,3298.0,30.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,39.0,1723.0,9.0,high,high,1 > 2,2BR (2 roommates),20676.0
+new_school,The New School,Chelsea-Hudson Yards,4062.0,23.0,East Harlem (South),Manhattan,1636.0,38.0,2426.0,15.0,high,high,6,2BR (2 roommates),29112.0
+pratt,Pratt Institute,East Village,3363.0,45.0,Mapleton-Midwood (West),Brooklyn,2014.0,49.0,1349.0,4.0,high,high,F > G,Studio (alone),16188.0
+nyu_wsq,NYU (Washington Square),Financial District-Battery Park City,4140.0,22.0,Chinatown-Two Bridges,Manhattan,2580.0,22.0,1560.0,0.0,medium,high,F,Studio (alone),18720.0
+nyu_wsq,NYU (Washington Square),Flatbush (West)-Ditmas Park-Parkville,2604.0,43.0,Norwood,Bronx,1550.0,55.0,1054.0,12.0,medium,high,D,Studio (alone),12648.0
+fordham_rh,Fordham University (Rose Hill),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,83.0,Norwood,Bronx,1550.0,27.0,1834.0,-56.0,medium,high,D,Studio (alone),22008.0
+new_school,The New School,Bushwick (East),1775.0,46.0,Highbridge,Bronx,1150.0,52.0,625.0,6.0,medium,high,4,2BR (2 roommates),7500.0
+columbia,Columbia University (Morningside),Bushwick (West),2768.0,65.0,Norwood,Bronx,1550.0,46.0,1218.0,-19.0,medium,high,D,Studio (alone),14616.0
+columbia,Columbia University (Morningside),Bushwick (West),3200.0,65.0,Allerton,Bronx,1804.0,61.0,1396.0,-4.0,medium,medium,2 > 1,1BR (alone),16752.0
+pratt,Pratt Institute,Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,30.0,Kensington,Brooklyn,1500.0,43.0,1572.0,13.0,high,high,G,2BR (2 roommates),18864.0
+baruch,CUNY Baruch College,Bushwick (West),3200.0,46.0,Bedford Park,Bronx,1879.0,57.0,1321.0,11.0,high,high,4 > 6,1BR (alone),15852.0
+fit,Fashion Institute of Technology,Greenpoint,3710.0,46.0,Norwood,Bronx,1550.0,55.0,2160.0,9.0,medium,high,D > 1,Studio (alone),25920.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Carnegie Hill,2913.0,47.0,Brownsville,Brooklyn,1275.0,39.0,1638.0,-8.0,high,high,3 > 4,2BR (2 roommates),19656.0
+pratt,Pratt Institute,East Midtown-Turtle Bay,4948.0,46.0,Woodhaven,Queens,2038.0,60.0,2910.0,14.0,high,high,J > A > G,1BR (alone),34920.0
+laguardia_cc,CUNY LaGuardia Community College,Murray Hill-Kips Bay,2999.0,36.0,Elmhurst,Queens,1133.0,37.0,1866.0,1.0,high,high,R,3BR+ (3 roommates),22392.0
+lehman,CUNY Lehman College,Murray Hill-Kips Bay,3250.0,57.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,2108.0,-12.0,medium,high,walk,2BR (2 roommates),25296.0
+bmcc,CUNY Borough of Manhattan CC,Murray Hill-Kips Bay,3250.0,42.0,Melrose,Bronx,1188.0,55.0,2062.0,13.0,medium,high,2,2BR (2 roommates),24744.0
+pratt,Pratt Institute,East Village,4018.0,45.0,Ozone Park (North),Queens,2193.0,56.0,1825.0,11.0,medium,high,A > G,1BR (alone),21900.0
+ccny,CUNY City College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,65.0,Allerton,Bronx,1804.0,58.0,2399.0,-7.0,medium,medium,2,1BR (alone),28788.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Bushwick (West),1408.0,48.0,Richmond Hill,Queens,1000.0,54.0,408.0,6.0,medium,high,J > A,3BR+ (3 roommates),4896.0
+brooklyn_college,CUNY Brooklyn College,Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,43.0,Brownsville,Brooklyn,1950.0,48.0,2697.0,5.0,high,high,3 > 5,1BR (alone),32364.0
+new_school,The New School,Downtown Brooklyn-DUMBO-Boerum Hill,4647.0,28.0,Washington Heights (South),Manhattan,2624.0,40.0,2023.0,12.0,high,high,A,1BR (alone),24276.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Yorkville,3173.0,44.0,Jamaica Estates-Holliswood,Queens,1800.0,59.0,1373.0,15.0,high,high,F,Studio (alone),16476.0
+john_jay,CUNY John Jay College,Flatbush (West)-Ditmas Park-Parkville,2866.0,60.0,Allerton,Bronx,1804.0,68.0,1062.0,8.0,medium,medium,2,1BR (alone),12744.0
+laguardia_cc,CUNY LaGuardia Community College,Hell's Kitchen,3858.0,36.0,Jamaica Hills-Briarwood,Queens,1842.0,49.0,2016.0,13.0,high,high,F,Studio (alone),24192.0
+laguardia_cc,CUNY LaGuardia Community College,Chelsea-Hudson Yards,4493.0,40.0,Jamaica Hills-Briarwood,Queens,1842.0,49.0,2651.0,9.0,high,high,F,Studio (alone),31812.0
+bmcc,CUNY Borough of Manhattan CC,Financial District-Battery Park City,4140.0,20.0,Chinatown-Two Bridges,Manhattan,2580.0,27.0,1560.0,7.0,medium,high,walk,Studio (alone),18720.0
+bmcc,CUNY Borough of Manhattan CC,Flatbush (West)-Ditmas Park-Parkville,2604.0,53.0,Norwood,Bronx,1550.0,63.0,1054.0,10.0,medium,high,D > A,Studio (alone),12648.0
+laguardia_cc,CUNY LaGuardia Community College,Bushwick (East),2768.0,64.0,Norwood,Bronx,1550.0,66.0,1218.0,2.0,medium,high,D > E,Studio (alone),14616.0
+john_jay,CUNY John Jay College,Financial District-Battery Park City,5305.0,38.0,Bedford Park,Bronx,1879.0,49.0,3426.0,11.0,high,high,D,1BR (alone),41112.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Yorkville,2913.0,39.0,Melrose,Bronx,1188.0,52.0,1725.0,13.0,medium,high,5,2BR (2 roommates),20700.0
+hunter,CUNY Hunter College,Upper East Side-Yorkville,2913.0,23.0,Concourse-Concourse Village,Bronx,1316.0,38.0,1597.0,15.0,high,high,4 > 6,2BR (2 roommates),19164.0
+nyu_wsq,NYU (Washington Square),Upper East Side-Carnegie Hill,4688.0,35.0,Inwood,Manhattan,1099.0,49.0,3589.0,14.0,high,high,A,3BR+ (3 roommates),43068.0
+fordham_rh,Fordham University (Rose Hill),Upper East Side-Lenox Hill-Roosevelt Island,4609.0,71.0,University Heights (North)-Fordham,Bronx,980.0,24.0,3629.0,-47.0,medium,high,walk,3BR+ (3 roommates),43548.0
+fit,Fashion Institute of Technology,East Midtown-Turtle Bay,2999.0,24.0,Hamilton Heights-Sugar Hill,Manhattan,1375.0,36.0,1624.0,12.0,high,high,1,3BR+ (3 roommates),19488.0
+baruch,CUNY Baruch College,Murray Hill-Kips Bay,3250.0,13.0,East Village,Manhattan,2748.0,26.0,502.0,13.0,high,high,walk,2BR (2 roommates),6024.0
+nyu_wsq,NYU (Washington Square),Hell's Kitchen,3298.0,30.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,40.0,1723.0,10.0,high,high,A,2BR (2 roommates),20676.0
+hunter,CUNY Hunter College,Hell's Kitchen,3298.0,34.0,Highbridge,Bronx,1150.0,43.0,2148.0,9.0,medium,high,4 > 6,2BR (2 roommates),25776.0
+nyu_wsq,NYU (Washington Square),Chelsea-Hudson Yards,4062.0,23.0,Chinatown-Two Bridges,Manhattan,2200.0,22.0,1862.0,-1.0,high,high,F,2BR (2 roommates),22344.0
+hunter,CUNY Hunter College,Chelsea-Hudson Yards,4062.0,38.0,Highbridge,Bronx,1150.0,43.0,2912.0,5.0,medium,high,4 > 6,2BR (2 roommates),34944.0
+columbia,Columbia University (Morningside),Financial District-Battery Park City,3463.0,41.0,University Heights (North)-Fordham,Bronx,980.0,43.0,2483.0,2.0,medium,high,1,3BR+ (3 roommates),29796.0
+fit,Fashion Institute of Technology,East Village,2625.0,34.0,Inwood,Manhattan,1099.0,47.0,1526.0,13.0,high,high,1,3BR+ (3 roommates),18312.0
+columbia,Columbia University (Morningside),Flatbush (West)-Ditmas Park-Parkville,1221.0,68.0,University Heights (North)-Fordham,Bronx,980.0,43.0,241.0,-25.0,medium,high,1,3BR+ (3 roommates),2892.0
+columbia,Columbia University (Morningside),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,64.0,Williamsbridge-Olinville,Bronx,1142.0,67.0,1811.0,3.0,medium,high,2 > 1,2BR (2 roommates),21732.0
+baruch,CUNY Baruch College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,44.0,University Heights (North)-Fordham,Bronx,980.0,58.0,1883.0,14.0,medium,high,4 > 6,3BR+ (3 roommates),22596.0
+brooklyn_college,CUNY Brooklyn College,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,62.0,Gravesend (West),Brooklyn,1067.0,57.0,1796.0,-5.0,high,high,D > Q,3BR+ (3 roommates),21552.0
+fordham_rh,Fordham University (Rose Hill),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2953.0,83.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,1811.0,-32.0,medium,high,walk,2BR (2 roommates),21732.0
+nyu_wsq,NYU (Washington Square),Bushwick (East),1775.0,47.0,Highbridge,Bronx,1150.0,54.0,625.0,7.0,medium,high,A,2BR (2 roommates),7500.0
+hunter,CUNY Hunter College,Bushwick (East),1775.0,61.0,Williamsbridge-Olinville,Bronx,1142.0,67.0,633.0,6.0,medium,high,2 > 5 > 6,2BR (2 roommates),7596.0
+ccny,CUNY City College,Greenpoint,2850.0,63.0,Williamsbridge-Olinville,Bronx,1142.0,64.0,1708.0,1.0,medium,high,2,2BR (2 roommates),20496.0
+brooklyn_college,CUNY Brooklyn College,Bushwick (West),1775.0,71.0,Brownsville,Brooklyn,1275.0,48.0,500.0,-23.0,high,high,3 > 5,2BR (2 roommates),6000.0
+fit,Fashion Institute of Technology,Upper East Side-Yorkville,2913.0,32.0,Melrose,Bronx,1188.0,46.0,1725.0,14.0,medium,high,2 > 1,2BR (2 roommates),20700.0
+john_jay,CUNY John Jay College,Flatbush (West)-Ditmas Park-Parkville,2604.0,60.0,Norwood,Bronx,1550.0,50.0,1054.0,-10.0,medium,high,D,Studio (alone),12648.0
+baruch,CUNY Baruch College,Upper East Side-Carnegie Hill,4200.0,27.0,East Harlem (South),Manhattan,2825.0,33.0,1375.0,6.0,high,high,6,1BR (alone),16500.0
+fit,Fashion Institute of Technology,Upper East Side-Lenox Hill-Roosevelt Island,3192.0,34.0,Elmhurst,Queens,2050.0,47.0,1142.0,13.0,high,high,M > F,Studio (alone),13704.0
+new_school,The New School,Murray Hill-Kips Bay,3250.0,29.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,39.0,1675.0,10.0,high,high,1 > 2,2BR (2 roommates),20100.0
+fit,Fashion Institute of Technology,Hell's Kitchen,3298.0,26.0,Hamilton Heights-Sugar Hill,Manhattan,1575.0,36.0,1723.0,10.0,high,high,1,2BR (2 roommates),20676.0
+fit,Fashion Institute of Technology,Chelsea-Hudson Yards,4062.0,10.0,Gramercy,Manhattan,2998.0,24.0,1064.0,14.0,high,high,walk,2BR (2 roommates),12768.0
+john_jay,CUNY John Jay College,Upper East Side-Carnegie Hill,2913.0,40.0,Highbridge,Bronx,1150.0,50.0,1763.0,10.0,medium,high,A,2BR (2 roommates),21156.0
+fordham_rh,Fordham University (Rose Hill),Financial District-Battery Park City,4140.0,70.0,Norwood,Bronx,1550.0,27.0,2590.0,-43.0,medium,high,D,Studio (alone),31080.0
+fordham_rh,Fordham University (Rose Hill),Flatbush (West)-Ditmas Park-Parkville,2604.0,91.0,Norwood,Bronx,1550.0,27.0,1054.0,-64.0,medium,high,D,Studio (alone),12648.0
+nyu_wsq,NYU (Washington Square),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,3384.0,35.0,Sunset Park (East)-Borough Park (West),Brooklyn,1981.0,47.0,1403.0,12.0,high,high,D,Studio (alone),16836.0
+fit,Fashion Institute of Technology,Bushwick (East),1775.0,56.0,Highbridge,Bronx,1150.0,55.0,625.0,-1.0,medium,high,A > E,2BR (2 roommates),7500.0
+hunter,CUNY Hunter College,Bushwick (West),2768.0,54.0,Norwood,Bronx,1550.0,58.0,1218.0,4.0,medium,high,4 > 6,Studio (alone),14616.0
+brooklyn_college,CUNY Brooklyn College,Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,43.0,Brownsville,Brooklyn,1799.0,48.0,1850.0,5.0,medium,high,3 > 5,Studio (alone),22200.0
+john_jay,CUNY John Jay College,Financial District-Battery Park City,4140.0,38.0,Norwood,Bronx,1550.0,50.0,2590.0,12.0,medium,high,D,Studio (alone),31080.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Yorkville,4688.0,44.0,Richmond Hill,Queens,1000.0,55.0,3688.0,11.0,medium,high,J > E,3BR+ (3 roommates),44256.0
+lehman,CUNY Lehman College,Upper East Side-Yorkville,2913.0,49.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,1771.0,-4.0,medium,high,walk,2BR (2 roommates),21252.0
+bmcc,CUNY Borough of Manhattan CC,Upper East Side-Yorkville,2913.0,45.0,Highbridge,Bronx,1150.0,59.0,1763.0,14.0,medium,high,A,2BR (2 roommates),21156.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Carnegie Hill,4688.0,47.0,Richmond Hill,Queens,1000.0,54.0,3688.0,7.0,medium,high,J > A,3BR+ (3 roommates),44256.0
+fordham_rh,Fordham University (Rose Hill),East Midtown-Turtle Bay,4948.0,59.0,Allerton,Bronx,1804.0,32.0,3144.0,-27.0,medium,medium,walk,1BR (alone),37728.0
+laguardia_cc,CUNY LaGuardia Community College,Hell's Kitchen,2441.0,36.0,Elmhurst,Queens,1133.0,37.0,1308.0,1.0,high,high,R,3BR+ (3 roommates),15696.0
+lehman,CUNY Lehman College,Hell's Kitchen,3298.0,60.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,2156.0,-15.0,medium,high,walk,2BR (2 roommates),25872.0
+bmcc,CUNY Borough of Manhattan CC,Hell's Kitchen,3298.0,36.0,East Flatbush-Erasmus,Brooklyn,1486.0,49.0,1812.0,13.0,high,high,2,2BR (2 roommates),21744.0
+ccny,CUNY City College,Financial District-Battery Park City,5305.0,48.0,Allerton,Bronx,1804.0,58.0,3501.0,10.0,medium,medium,2,1BR (alone),42012.0
+laguardia_cc,CUNY LaGuardia Community College,Chelsea-Hudson Yards,3546.0,40.0,Richmond Hill,Queens,1000.0,55.0,2546.0,15.0,medium,high,J > E,3BR+ (3 roommates),30552.0
+lehman,CUNY Lehman College,Chelsea-Hudson Yards,4062.0,63.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,2920.0,-18.0,medium,high,walk,2BR (2 roommates),35040.0
+bmcc,CUNY Borough of Manhattan CC,Chelsea-Hudson Yards,4062.0,29.0,Bedford-Stuyvesant (West),Brooklyn,1750.0,41.0,2312.0,12.0,high,high,G > A,2BR (2 roommates),27744.0
+ccny,CUNY City College,Flatbush (West)-Ditmas Park-Parkville,2866.0,72.0,Allerton,Bronx,1804.0,58.0,1062.0,-14.0,medium,medium,2,1BR (alone),12744.0
+fordham_rh,Fordham University (Rose Hill),East Village,4018.0,74.0,Allerton,Bronx,1804.0,32.0,2214.0,-42.0,medium,medium,walk,1BR (alone),26568.0
+laguardia_cc,CUNY LaGuardia Community College,Bushwick (East),1408.0,64.0,University Heights (North)-Fordham,Bronx,980.0,68.0,428.0,4.0,medium,high,4 > 7,3BR+ (3 roommates),5136.0
+lehman,CUNY Lehman College,Bushwick (East),1775.0,90.0,Williamsbridge-Olinville,Bronx,1142.0,45.0,633.0,-45.0,medium,high,walk,2BR (2 roommates),7596.0
+bmcc,CUNY Borough of Manhattan CC,Bushwick (East),1775.0,55.0,Highbridge,Bronx,1150.0,59.0,625.0,4.0,medium,high,A,2BR (2 roommates),7500.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Bushwick (West),1775.0,48.0,Brownsville,Brooklyn,1275.0,39.0,500.0,-9.0,high,high,3 > 4,2BR (2 roommates),6000.0
+lehman,CUNY Lehman College,Downtown Brooklyn-DUMBO-Boerum Hill,2828.0,70.0,University Heights (North)-Fordham,Bronx,980.0,22.0,1848.0,-48.0,medium,high,4,3BR+ (3 roommates),22176.0
+lehman,CUNY Lehman College,Upper East Side-Carnegie Hill,3173.0,48.0,Norwood,Bronx,1550.0,19.0,1623.0,-29.0,medium,high,walk,Studio (alone),19476.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Upper East Side-Lenox Hill-Roosevelt Island,4203.0,51.0,Melrose,Bronx,1935.0,63.0,2268.0,12.0,medium,high,2,1BR (alone),27216.0
+laguardia_cc,CUNY LaGuardia Community College,Murray Hill-Kips Bay,4948.0,36.0,Jamaica Hills-Briarwood,Queens,2195.0,49.0,2753.0,13.0,high,high,F,1BR (alone),33036.0
+nyu_tandon,NYU Tandon (Downtown Brooklyn),Murray Hill-Kips Bay,3613.0,45.0,Bath Beach,Brooklyn,1750.0,54.0,1863.0,9.0,high,high,D > R,Studio (alone),22356.0
+lehman,CUNY Lehman College,Financial District-Battery Park City,5305.0,59.0,Allerton,Bronx,1804.0,44.0,3501.0,-15.0,medium,medium,walk,1BR (alone),42012.0
+lehman,CUNY Lehman College,Flatbush (West)-Ditmas Park-Parkville,2866.0,88.0,Allerton,Bronx,1804.0,44.0,1062.0,-44.0,medium,medium,walk,1BR (alone),12744.0
+bmcc,CUNY Borough of Manhattan CC,Greenpoint,4525.0,55.0,Bedford Park,Bronx,1879.0,61.0,2646.0,6.0,high,high,D > A,1BR (alone),31752.0
+pratt,Pratt Institute,Upper East Side-Yorkville,4688.0,64.0,Richmond Hill,Queens,1000.0,66.0,3688.0,2.0,medium,high,J > A > G,3BR+ (3 roommates),44256.0
+hunter,CUNY Hunter College,Upper East Side-Lenox Hill-Roosevelt Island,4609.0,15.0,East Harlem (South),Manhattan,1454.0,20.0,3155.0,5.0,high,high,6,3BR+ (3 roommates),37860.0
+john_jay,CUNY John Jay College,Upper East Side-Lenox Hill-Roosevelt Island,4609.0,39.0,University Heights (North)-Fordham,Bronx,980.0,52.0,3629.0,13.0,medium,high,D,3BR+ (3 roommates),43548.0
+columbia,Columbia University (Morningside),East Midtown-Turtle Bay,3250.0,40.0,University Heights (North)-Fordham,Bronx,1179.0,43.0,2071.0,3.0,high,high,1,2BR (2 roommates),24852.0
+baruch,CUNY Baruch College,East Midtown-Turtle Bay,2999.0,24.0,East Harlem (South),Manhattan,1454.0,33.0,1545.0,9.0,high,high,6,3BR+ (3 roommates),18540.0
+brooklyn_college,CUNY Brooklyn College,East Midtown-Turtle Bay,2999.0,61.0,Gravesend (West),Brooklyn,1067.0,57.0,1932.0,-4.0,high,high,D > Q,3BR+ (3 roommates),23184.0
+fordham_rh,Fordham University (Rose Hill),East Midtown-Turtle Bay,3250.0,59.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,2108.0,-8.0,medium,high,walk,2BR (2 roommates),25296.0
+pratt,Pratt Institute,Hell's Kitchen,2441.0,57.0,Richmond Hill,Queens,1000.0,66.0,1441.0,9.0,medium,high,J > A > G,3BR+ (3 roommates),17292.0
+pratt,Pratt Institute,Chelsea-Hudson Yards,3546.0,53.0,Richmond Hill,Queens,1000.0,66.0,2546.0,13.0,medium,high,J > A > G,3BR+ (3 roommates),30552.0
+columbia,Columbia University (Morningside),East Village,2748.0,50.0,University Heights (North)-Fordham,Bronx,1179.0,43.0,1569.0,-7.0,high,high,1,2BR (2 roommates),18828.0
+baruch,CUNY Baruch College,East Village,2625.0,26.0,East Harlem (South),Manhattan,1454.0,33.0,1171.0,7.0,high,high,6,3BR+ (3 roommates),14052.0
+brooklyn_college,CUNY Brooklyn College,East Village,2625.0,59.0,Gravesend (West),Brooklyn,1067.0,57.0,1558.0,-2.0,high,high,D > Q,3BR+ (3 roommates),18696.0
+fordham_rh,Fordham University (Rose Hill),East Village,2748.0,74.0,Williamsbridge-Olinville,Bronx,1142.0,51.0,1606.0,-23.0,medium,high,walk,2BR (2 roommates),19272.0
+pratt,Pratt Institute,Bushwick (East),1408.0,56.0,Richmond Hill,Queens,1000.0,66.0,408.0,10.0,medium,high,J > A > G,3BR+ (3 roommates),4896.0
+fit,Fashion Institute of Technology,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,2863.0,45.0,University Heights (North)-Fordham,Bronx,980.0,57.0,1883.0,12.0,medium,high,D > 1,3BR+ (3 roommates),22596.0
+brooklyn_college,CUNY Brooklyn College,Downtown Brooklyn-DUMBO-Boerum Hill,3072.0,43.0,Brownsville,Brooklyn,1275.0,48.0,1797.0,5.0,high,high,3 > 5,2BR (2 roommates),21564.0
+new_school,The New School,Greenpoint,2500.0,41.0,University Heights (South)-Morris Heights,Bronx,1026.0,56.0,1474.0,15.0,medium,high,4,3BR+ (3 roommates),17688.0
+new_school,The New School,Upper East Side-Yorkville,3173.0,34.0,Elmhurst,Queens,2050.0,49.0,1123.0,15.0,high,high,M > F,Studio (alone),13476.0
+pratt,Pratt Institute,Upper East Side-Carnegie Hill,2913.0,61.0,Richmond Hill,Queens,1275.0,66.0,1638.0,5.0,medium,high,J > A > G,2BR (2 roommates),19656.0
+ccny,CUNY City College,Upper East Side-Lenox Hill-Roosevelt Island,3192.0,54.0,Norwood,Bronx,1550.0,39.0,1642.0,-15.0,medium,high,D,Studio (alone),19704.0
+baruch,CUNY Baruch College,Upper East Side-Lenox Hill-Roosevelt Island,3192.0,36.0,Concourse-Concourse Village,Bronx,2061.0,47.0,1131.0,11.0,high,high,4 > 6,Studio (alone),13572.0
+hunter,CUNY Hunter College,Upper East Side-Lenox Hill-Roosevelt Island,4203.0,15.0,East Harlem (South),Manhattan,2825.0,20.0,1378.0,5.0,high,high,6,1BR (alone),16536.0
+nyu_wsq,NYU (Washington Square),East Midtown-Turtle Bay,3613.0,26.0,Hamilton Heights-Sugar Hill,Manhattan,2195.0,40.0,1418.0,14.0,high,high,A,Studio (alone),17016.0
+new_school,The New School,Hell's Kitchen,3858.0,30.0,Forest Hills,Queens,2187.0,44.0,1671.0,14.0,high,high,F,Studio (alone),20052.0
+new_school,The New School,Chelsea-Hudson Yards,4493.0,23.0,Harlem (South),Manhattan,2550.0,33.0,1943.0,10.0,high,high,2,Studio (alone),23316.0
+nyu_wsq,NYU (Washington Square),East Village,3363.0,22.0,Chinatown-Two Bridges,Manhattan,2580.0,22.0,783.0,0.0,medium,high,F,Studio (alone),9396.0
+pratt,Pratt Institute,Financial District-Battery Park City,4140.0,38.0,Mapleton-Midwood (West),Brooklyn,2014.0,49.0,2126.0,11.0,high,high,F > G,Studio (alone),25512.0
+new_school,The New School,Bushwick (East),2768.0,46.0,Norwood,Bronx,1550.0,55.0,1218.0,9.0,medium,high,D,Studio (alone),14616.0
+brooklyn_college,CUNY Brooklyn College,Bushwick (West),2768.0,71.0,Bath Beach,Brooklyn,1750.0,68.0,1018.0,-3.0,high,high,D > Q,Studio (alone),12216.0
+hunter,CUNY Hunter College,Downtown Brooklyn-DUMBO-Boerum Hill,3649.0,42.0,University Heights (North)-Fordham,Bronx,1656.0,49.0,1993.0,7.0,high,high,4 > 6,Studio (alone),23916.0
+nyu_wsq,NYU (Washington Square),Greenpoint,4525.0,48.0,Bedford Park,Bronx,1879.0,54.0,2646.0,6.0,high,high,D,1BR (alone),31752.0
+brooklyn_college,CUNY Brooklyn College,Upper East Side-Carnegie Hill,4200.0,70.0,Brownsville,Brooklyn,1950.0,48.0,2250.0,-22.0,high,high,3 > 5,1BR (alone),27000.0
+new_school,The New School,Upper East Side-Carnegie Hill,4200.0,32.0,Melrose,Bronx,1935.0,46.0,2265.0,14.0,medium,high,2,1BR (alone),27180.0
+fit,Fashion Institute of Technology,Upper East Side-Lenox Hill-Roosevelt Island,4203.0,34.0,Melrose,Bronx,1935.0,46.0,2268.0,12.0,medium,high,2 > 1,1BR (alone),27216.0
+laguardia_cc,CUNY LaGuardia Community College,Upper East Side-Lenox Hill-Roosevelt Island,2911.0,41.0,Richmond Hill,Queens,1275.0,55.0,1636.0,14.0,medium,high,J > E,2BR (2 roommates),19632.0
+pratt,Pratt Institute,Financial District-Battery Park City,5305.0,38.0,Kensington,Brooklyn,2500.0,43.0,2805.0,5.0,high,high,G,1BR (alone),33660.0
+fordham_rh,Fordham University (Rose Hill),Carroll Gardens-Cobble Hill-Gowanus-Red Hook,4203.0,83.0,Allerton,Bronx,1804.0,32.0,2399.0,-51.0,medium,medium,walk,1BR (alone),28788.0
+lehman,CUNY Lehman College,Bushwick (West),1408.0,83.0,University Heights (North)-Fordham,Bronx,980.0,22.0,428.0,-61.0,medium,high,4,3BR+ (3 roommates),5136.0
+bmcc,CUNY Borough of Manhattan CC,Greenpoint,2500.0,55.0,University Heights (North)-Fordham,Bronx,980.0,64.0,1520.0,9.0,medium,high,D > A,3BR+ (3 roommates),18240.0

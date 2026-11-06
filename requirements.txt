@@ -1,0 +1,23 @@
+# Core data handling
+pandas>=2.2
+openpyxl>=3.1          # lets pandas write .xlsx files you can open in Excel
+
+# Geography
+geopandas>=1.0         # pandas + geometry columns (neighborhood boundaries)
+shapely>=2.0           # geometry operations (centroids, point-in-polygon)
+pyproj>=3.6            # coordinate systems (lat/long vs. feet-based NY projection)
+pyogrio>=0.9           # fast reader for GeoJSON / shapefiles
+
+# SQL
+duckdb>=1.1            # in-process analytical SQL database (see DECISIONS.md D-003)
+
+
+# Downloads and exploration
+requests>=2.32
+matplotlib>=3.9
+jupyterlab>=4.2
+
+# Phase 4: subway network routing (see DECISIONS.md D-018)
+networkx>=3.3
+
+# r5py (full timetable routing) is NOT used: needs Java 21 + a street map. Possible upgrade.
