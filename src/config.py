@@ -5,7 +5,15 @@ Why a config file: every script reads the campus location, budgets, and
 commute limits from here, so changing an assumption means editing ONE line
 (and logging it in DECISIONS.md), not hunting through every script.
 """
+import sys
 from pathlib import Path
+
+# The Windows console defaults to an old encoding (cp1252) that can't print
+# characters like "≤" or DuckDB's table borders. Every script imports this
+# file, so switching output to UTF-8 here fixes it everywhere.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8")
 
 # ---------------------------------------------------------------------------
 # Paths

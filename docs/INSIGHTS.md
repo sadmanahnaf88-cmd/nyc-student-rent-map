@@ -52,7 +52,7 @@ Cheapest way to live in each NTA (any housing type). These NTAs are not beaten b
 | CUNY Baruch College | Upper East Side-Carnegie Hill | East Harlem (South) | $1,277 | 6 |
 | The New School | East Village | Hamilton Heights-Sugar Hill | $1,173 | 15 |
 | NYU (Washington Square) | East Village | Chinatown-Two Bridges | $548 | 0 |
-| CUNY Brooklyn College | Flatbush (West)-Ditmas Park-Parkville | East Flatbush-Erasmus | $154 | 7 |
+| CUNY Brooklyn College | Flatbush (West)-Ditmas Park-Parkville | East Flatbush-Farragut | $154 | 7 |
 
 ## Caveats
 

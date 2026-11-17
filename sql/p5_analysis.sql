@@ -62,7 +62,7 @@ SELECT * REPLACE ('any (cheapest)' AS bedrooms), bedrooms AS cheapest_type
 FROM options
 WHERE rent_usable
 QUALIFY row_number() OVER (PARTITION BY campus_id, nta2020
-                           ORDER BY rent_per_person, occupants) = 1;
+                           ORDER BY rent_per_person, occupants, bedrooms) = 1;
 
 
 -- ---------------------------------------------------------------------------
@@ -154,7 +154,9 @@ WHERE a.rent_per_person < p.rent_per_person
   -- Never recommend a place whose rent is borrowed from a neighbor (D-022)
   AND a.mapping_confidence <> 'low'
 QUALIFY row_number() OVER (PARTITION BY p.campus_id, p.bedrooms, p.nta2020
-                           ORDER BY p.rent_per_person - a.rent_per_person DESC) = 1;
+                           ORDER BY p.rent_per_person - a.rent_per_person DESC,
+                                    a.commute_min, a.ntaname) = 1
+ORDER BY p.campus_id, p.bedrooms, p.ntaname;
 
 
 -- ---------------------------------------------------------------------------
@@ -172,7 +174,8 @@ SELECT
     count(*) FILTER (WHERE a.commute_known AND a.commute_min <= l.limit_min) AS ntas_reachable,
     count(*) FILTER (WHERE a.rent_usable AND a.rent_per_person <= b.budget
                        AND a.commute_known AND a.commute_min <= l.limit_min) AS ntas_affordable_and_reachable,
-    string_agg(a.ntaname, '; ' ORDER BY a.rent_per_person)
+    -- tie-breaker on name: equal rents always list in the same order (D-029)
+    string_agg(a.ntaname, '; ' ORDER BY a.rent_per_person, a.ntaname)
         FILTER (WHERE a.rent_usable AND a.rent_per_person <= b.budget
                   AND a.commute_known AND a.commute_min <= l.limit_min)      AS which_ntas
 FROM affordability AS a

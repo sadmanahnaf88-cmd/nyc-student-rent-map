@@ -2,9 +2,9 @@
 
 **Question:** On a given monthly budget, where in NYC can a student live within a reasonable subway commute of campus, and what are the surprising trade-offs?
 
-> **Headline** (home campus currently NYU as a placeholder, see `docs/INSIGHTS.md`): Students sharing a 2BR can save **$548/month ($6,576/year)** by living in **Chinatown-Two Bridges** instead of the **East Village**, with the same 22-minute commute.
+> **Headline** (reference campus: NYU, see `docs/INSIGHTS.md`): Students sharing a 2BR can save **$548/month ($6,576/year)** by living in **Chinatown-Two Bridges** instead of the **East Village**, with the same 22-minute commute.
 >
-> For Columbia: living in **University Heights (Bronx)** instead of the **Upper East Side** saves **$1,734/month**, and the commute is a minute *shorter*. There's no direct subway from the UES to Morningside Heights.
+> **Biggest swap across all 17 campuses** (same rules): for Columbia, living in **University Heights (Bronx)** instead of the **Upper East Side** saves **$1,734/month**, and the commute is a minute *shorter*. There's no direct subway from the UES to Morningside Heights.
 
 - **Campuses:** 17 NYC campuses (`data/reference/campuses.csv`); one is marked as home campus
 - **Budgets (per person / month):** $1,000 · $1,500 · $2,000. At $1,000 almost nothing works: 0 NTAs within 45 min of NYU (D-012)
@@ -34,7 +34,7 @@ pip install -r requirements.txt          # or requirements-lock.txt for exact ve
 python src/run_all.py                    # add --skip-download to reuse NTA/GTFS files
 ```
 
-If printing DuckDB results gives `UnicodeEncodeError: 'charmap'...`, run `$env:PYTHONIOENCODING = "utf-8"` once per PowerShell window (`run_all.py` sets it automatically).
+Every script switches console output to UTF-8 itself (`src/config.py`), so DuckDB tables and symbols like `≤` print correctly in the Windows terminal without extra setup.
 
 **To use your own campus:** add a row to `data/reference/campuses.csv` (address + lat/lon), set `is_home_campus` to TRUE on it and FALSE on the rest, then re-run with `--skip-download`.
 

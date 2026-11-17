@@ -208,5 +208,18 @@ Template:
 ## D-027: Analyse 17 campuses, not one
 - **Phase:** 4
 - **Decision:** Commutes are computed to 17 major NYC campuses listed in `data/reference/campuses.csv`, with coordinates from NYC GeoSearch. One campus is marked `is_home_campus` for the headline.
-- **Why:** The project owner's campus wasn't specified yet. A campus filter also makes the dashboard useful to any NYC student. Adding a campus is one CSV row.
-- **Impact / risk:** **The home campus is currently set to NYU as a placeholder.** Change it to the real campus and re-run `python src/run_all.py --skip-download`.
+- **Why:** A campus filter makes the dashboard useful to any NYC student, not just one school. Adding a campus is one CSV row.
+- **Impact / risk:** The headline uses **NYU as the reference campus**. It was set before any results existed, and it is kept deliberately: switching to whichever campus gives the most striking number (Columbia, $1,734/month) would be cherry-picking (see D-024). The Columbia result is reported separately, labelled as "biggest swap across all 17 campuses".
+
+## D-028: Scope stays inside NYC: the author's own campus is out of scope
+- **Phase:** 5
+- **Decision:** The project covers NYC campuses reachable by subway. The author's own school, **Manhattanville University in Purchase, NY (Westchester)**, is not included.
+- **Why:** Purchase is about 20 miles north of Manhattan with no subway. The realistic trip from NYC is subway → Metro-North (Harlem Line to White Plains) → shuttle/bus/taxi, roughly 75–100 minutes. Adding it would mean a second rail network, an unverified last-mile leg, and commute limits (30/45/60 min) that no NYC neighborhood could meet. That would be a different question from the one this project answers.
+- **Alternatives considered:** Adding the Metro-North GTFS feed (MTA publishes it in the same format) plus a documented last-mile assumption. Feasible, and the natural extension, but deferred to keep the scope tight and every assumption defensible.
+- **Impact / risk:** None for the NYC results. The extension is listed as a next step.
+
+## D-029: Outputs must be deterministic (same input, same bytes)
+- **Phase:** 5
+- **Decision:** Every SQL sort that feeds an output has a tie-breaker (e.g. rent, then NTA name), and exported tables have an explicit row order.
+- **Why:** After a re-run, Git showed changes in `tableau_scenarios.csv` and `tableau_swaps.csv` although no input had changed. Neighborhoods with exactly equal rents were listed in a different order, because a database may return ties in any order. Noisy diffs hide real changes and make it look like results moved.
+- **Impact / risk:** None on the numbers; it only fixes the order.
